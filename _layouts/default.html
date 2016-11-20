@@ -1,0 +1,33 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ page.title }}</title>
+
+    <style>body{padding:10px !important;max-width:500px !important;margin-left:auto !important;margin-right:auto !important;}{img:max-width:100% !important;height:auto;}</style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flat-ui/2.3.0/css/flat-ui.min.css" integrity="ObE+ehRshGuMJ3N47RvNz2kEAWkHvWdZvPtU8pn/MoY9AXPhwksQiaVjB17fWwqn" crossorigin="anonymous">
+</head>
+<body>
+    <style type="text/css">
+        .container { max-width: 720px; }
+        img { max-width: 280px; height: auto; }
+        .wish { border: 2px solid #cfc; }
+    </style>
+
+    <div class="container">
+        <header role="banner">
+            <h1>{{ page.title }}</h1>
+        </header>
+
+        <main role="main">
+            {% comment %}<h2>{{ page.title }}</h2>{% endcomment %}
+
+            {{ content }}
+        </main>
+    </div>
+</body>
+</html>

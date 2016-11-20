@@ -1,0 +1,55 @@
+# <250
+- title: PlayStation Store gift card
+  price_range: "<250"
+- title: Headphone hanger
+  price: "200"
+  price_range: "<250"
+  image: http://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
+  link:
+    dk: false
+    amazon: https://amzn.to/2fEatkg
+- title: Underpants
+  price_range: "<250"
+
+# >250
+- title: Samsung Slim DVD writer (red)
+  price: "300"
+  price_range: ">250"
+  image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
+  link:
+    dk: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
+    amazon: https://amzn.to/2g5XciP
+
+# >500
+# [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
+- title: RØDE PSA-1 microphone arm
+  price: "700"
+  price_range: ">500"
+  image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/114512/8668422_800.jpg
+  link:
+    dk: https://www.thomann.de/dk/rode_psa1.htm
+    amazon: https://amzn.to/2fdsIZR
+- title: PSU
+
+# >1000
+- title: Ergotron Freedom Arm &times;2
+  price: "1,000"
+  price_range: ">1000"
+  image: https://images-na.ssl-images-amazon.com/images/I/51-cnvkbb8L._SL1000_.jpg
+  link:
+    dk: false
+    amazon: https://amzn.to/2f8rKhw
+- title: AT2035 microphone
+  price: "1,250"
+  price_range: ">1000"
+  image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/219514/6355264_800.jpg
+  link:
+    dk: https://www.thomann.de/dk/audio_technica_at2035.htm
+    amazon: https://amzn.to/2fusM8s
+- title: Logitech G900
+  price: "1,250--1,500"
+  price_range: ">1000"
+  image: http://images.anandtech.com/doci/10187/Logitech%20G900%20Chaos%20Spectrum_TopDown_onWhite.jpg
+  link:
+    dk: http://www.bj-trading.dk/bjshop/default.asp?pv=910-004608&pn=Logitech&gruppe=mus&overgr=Hardware&vare=184667&f=edbp
+    amazon: https://amzn.to/2g7dbvl
