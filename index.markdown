@@ -16,12 +16,14 @@ title: Wishlist
 -->
 
 ### Charities ###
+{% for c in site.data.charities %}
 
 <div class="tile" markdown="1">
-#### American Civil Liberties Union ####
+#### {{ c.title }} ####
 
-<span style="text-align: center;">[[Donate](https://www.aclu.org)]</span>
+<span style="text-align: center;">[[Donate]({{ c.link }})]</span>
 </div>
+{% endfor %}
 
 {% assign price_ranges = "<250,>250,>500,>1000" | split:"," %}
 {% for range in price_ranges %}
