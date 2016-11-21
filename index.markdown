@@ -23,12 +23,10 @@ title: Wishlist
 <span style="text-align: center;">[[Donate](https://www.aclu.org)]</span>
 </div>
 
-{% assign data = site.data.wishes %}
 {% assign price_ranges = "<250,>250,>500,>1000" | split:"," %}
-
 {% for range in price_ranges %}
 ### {{ range }} ###
-{% for w in data %}{% if w.price_range == range %}
+{% for w in site.data.wishes %}{% if w.price_range == range %}
 
 <div class="tile" markdown="1">
 #### {{ w.title }} {% if w.price %}(**{{ w.price }}**){% endif %} ####
