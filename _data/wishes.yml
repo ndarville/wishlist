@@ -12,6 +12,13 @@
     amazon: https://amzn.to/2fEatkg
 - title: Underpants
   price_range: "<250"
+- title: IBM and the Holocaust (Hbk)
+  image: https://images-na.ssl-images-amazon.com/images/I/51PnOpRC31L.jpg
+  price_range: "<250"
+  price: "200"
+  link:
+    dk: false
+    amazon: https://amzn.to/2gycAau
 
 # >250
 - title: Samsung Slim DVD writer (red)
@@ -24,6 +31,12 @@
 
 # >500
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
+- title: React for Beginners
+  price: "500"
+  price_range: ">500"
+  bought: true
+  linK:
+    other: https://reactforbeginners.com
 - title: RØDE PSA-1 microphone arm
   price: "700"
   price_range: ">500"
