@@ -28,7 +28,7 @@ title: Wishlist
 {% assign price_ranges = "<250,>250,>500,>1000" | split:"," %}
 {% for range in price_ranges %}
 ### {{ range }},- ###
-{% for w in site.data.wishes %}{% unless price.bought %}{% if w.price_range == range %}
+{% for w in site.data.wishes %}{% unless w.bought %}{% if w.price_range == range %}
 
 <div class="tile" markdown="1">
 #### {{ w.title }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }},-**}</span>{% endif %} ####
