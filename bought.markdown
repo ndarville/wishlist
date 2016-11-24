@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Wishlist (Bought)
+price_ranges:
+    - ">500"
 ---
 <i>(Prices in curly brackets are in DKK by default.)</i>
 
 * TOC
 {:toc}
 
-{% assign price_ranges = ">500" | split:"," %}
-{% for range in price_ranges %}
+{% for range in page.price_ranges %}
 ### {{ range }},- ###
 {% for w in site.data.wishes %}{% unless w.bought != true %}{% if w.price_range == range %}
 

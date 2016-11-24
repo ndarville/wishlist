@@ -1,6 +1,11 @@
 ---
 layout: default
 title: Wishlist
+price_ranges:
+    - "<250"
+    - ">250"
+    - ">500"
+    - ">1000"
 ---
 <i>(Prices in curly brackets are in DKK by default.)</i>
 
@@ -25,8 +30,7 @@ title: Wishlist
 </div>
 {% endfor %}
 
-{% assign price_ranges = "<250,>250,>500,>1000" | split:"," %}
-{% for range in price_ranges %}
+{% for range in page.price_ranges %}
 ### {{ range }},- ###
 {% for w in site.data.wishes %}{% unless w.bought %}{% if w.price_range == range %}
 
