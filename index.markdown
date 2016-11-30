@@ -32,7 +32,7 @@ price_ranges:
 
 {% for range in page.price_ranges %}
 ### {{ range }},- ###
-{% for w in site.data.wishes %}{% unless w.bought %}{% if w.price_range == range %}
+{% for w in site.data.wishes %}{% unless w.bought or w.hidden %}{% if w.price_range == range %}
 
 <div class="tile" markdown="1">
 #### {{ w.title }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }},-**}</span>{% endif %} ####
