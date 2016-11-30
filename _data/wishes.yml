@@ -19,6 +19,21 @@
   link:
     dk: false
     amazon: https://amzn.to/2gycAau
+- title: "Beautiful JavaScript: Leading Programmers Explain How They Think"
+  image: https://images-na.ssl-images-amazon.com/images/I/51hspzmFqyL.jpg
+  price_range: "<250"
+  price: "200"
+  link:
+    dk: false
+    amazon: https://amzn.to/2g6dvLf
+- title: Metropolis (Limited Edition Blu-ray)
+  hidden: true
+  image: https://images-na.ssl-images-amazon.com/images/I/71id2rUgB0L._SL1500_.jpg
+  price_range: "<250"
+  price: "200"
+  link:
+    dk: false
+    amazon: https://amzn.to/2fN6EGp
 
 # >250
 - title: Samsung Slim DVD writer (red)
@@ -45,6 +60,8 @@
     dk: https://www.thomann.de/dk/rode_psa1.htm
     amazon: https://amzn.to/2fdsIZR
 - title: PSU
+  hidden: true
+  price_range: ">500"
 
 # >1000
 - title: Ergotron Freedom Arm &times;2
@@ -64,6 +81,7 @@
 - title: Logitech G900
   price: "1,250--1,500"
   price_range: ">1000"
+  bought: true # 83 GBP
   image: http://images.anandtech.com/doci/10187/Logitech%20G900%20Chaos%20Spectrum_TopDown_onWhite.jpg
   link:
     dk: http://www.bj-trading.dk/bjshop/default.asp?pv=910-004608&pn=Logitech&gruppe=mus&overgr=Hardware&vare=184667&f=edbp
