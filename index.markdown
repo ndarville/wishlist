@@ -4,7 +4,7 @@ title: Wishlist
 price_ranges:
     - "<250"
     - ">250"
-    - ">500"
+#   - ">500"
     - ">1000"
 ---
 <i>(Prices in curly brackets are in DKK by default.)</i>

@@ -3,6 +3,8 @@
   price_range: "<250"
 - title: Bookmarks
   price_range: "<250"
+- title: Underpants
+  price_range: "<250"
 - title: PlayStation Store gift card
   price_range: "<250"
 - title: Headphone hanger
@@ -12,8 +14,6 @@
   link:
     dk: false
     amazon: https://amzn.to/2fEatkg
-- title: Underpants
-  price_range: "<250"
 - title: IBM and the Holocaust (Hbk)
   image: https://images-na.ssl-images-amazon.com/images/I/51PnOpRC31L.jpg
   price_range: "<250"
