@@ -1,6 +1,8 @@
 # <250
 - title: Tennis socks
   price_range: "<250"
+- title: Bookmarks
+  price_range: "<250"
 - title: PlayStation Store gift card
   price_range: "<250"
 - title: Headphone hanger
@@ -53,8 +55,9 @@
   linK:
     other: https://reactforbeginners.com
 - title: RØDE PSA-1 microphone arm
-  price: "700"
+  price: "600"
   price_range: ">500"
+  bought: true
   image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/114512/8668422_800.jpg
   link:
     dk: https://www.thomann.de/dk/rode_psa1.htm
@@ -74,6 +77,7 @@
 - title: AT2035 microphone
   price: "1,250"
   price_range: ">1000"
+  bought: true
   image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/219514/6355264_800.jpg
   link:
     dk: https://www.thomann.de/dk/audio_technica_at2035.htm
