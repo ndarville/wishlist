@@ -3,6 +3,7 @@ layout: default
 title: Wishlist (Bought)
 price_ranges:
     - ">500"
+    - ">1000"
 ---
 <i>(Prices in curly brackets are in DKK by default.)</i>
 
