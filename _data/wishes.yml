@@ -34,12 +34,12 @@
 - title: Samsung Slim DVD writer (red)
   price: "300"
   price_range: ">250"
-  image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
+  image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
   link:
     dk: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
     amazon: https://amzn.to/2g5XciP
 - title: IBM and the Holocaust (Pbk)
-  image: https://images-na.ssl-images-amazon.com/images/I/51PnOpRC31L.jpg
+  image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
   price_range: "<250"
   price: "300"
   link:
@@ -90,3 +90,6 @@
   link:
     dk: http://www.bj-trading.dk/bjshop/default.asp?pv=910-004608&pn=Logitech&gruppe=mus&overgr=Hardware&vare=184667&f=edbp
     amazon: https://amzn.to/2g7dbvl
+- title: New glass lenses
+  price: "1,900"
+  price_range: ">1000"
