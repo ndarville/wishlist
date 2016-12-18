@@ -14,13 +14,6 @@
   link:
     dk: false
     amazon: https://amzn.to/2fEatkg
-- title: IBM and the Holocaust (Hbk)
-  image: https://images-na.ssl-images-amazon.com/images/I/51PnOpRC31L.jpg
-  price_range: "<250"
-  price: "200"
-  link:
-    dk: false
-    amazon: https://amzn.to/2gycAau
 - title: "Beautiful JavaScript: Leading Programmers Explain How They Think"
   image: https://images-na.ssl-images-amazon.com/images/I/51hspzmFqyL.jpg
   price_range: "<250"
@@ -41,10 +34,17 @@
 - title: Samsung Slim DVD writer (red)
   price: "300"
   price_range: ">250"
-  image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
+  image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
   link:
     dk: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
     amazon: https://amzn.to/2g5XciP
+- title: IBM and the Holocaust (Pbk)
+  image: https://images-na.ssl-images-amazon.com/images/I/51PnOpRC31L.jpg
+  price_range: "<250"
+  price: "300"
+  link:
+    dk: false
+    amazon: https://amzn.to/2hwyvyr
 
 # >500
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
