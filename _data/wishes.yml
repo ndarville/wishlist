@@ -40,7 +40,7 @@
     amazon: https://amzn.to/2g5XciP
 - title: IBM and the Holocaust (Pbk)
   image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
-  price_range: "<250"
+  price_range: ">250"
   price: "300"
   link:
     dk: false
