@@ -32,8 +32,9 @@
 
 # >250
 - title: Samsung Slim DVD writer (red)
-  price: "300"
   price_range: ">250"
+  price: "300"
+  bought: true
   image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
   link:
     dk: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
@@ -42,6 +43,7 @@
   image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
   price_range: ">250"
   price: "300"
+  bought: true
   link:
     dk: false
     amazon: https://amzn.to/2hwyvyr
