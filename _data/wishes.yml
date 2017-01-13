@@ -5,6 +5,7 @@
   price_range: "<250"
 - title: Underpants
   price_range: "<250"
+  bought: true
 - title: PlayStation Store gift card
   price_range: "<250"
 - title: Headphone hanger
@@ -20,9 +21,9 @@
   price: "200"
   link:
     dk: false
+    bookdepository: http://www.bookdepository.com/Beautiful-JavaScript-Anton-Kovalyov/9781449370756
     amazon: https://amzn.to/2g6dvLf
 - title: Metropolis (Limited Edition Blu-ray)
-  hidden: true
   image: https://images-na.ssl-images-amazon.com/images/I/71id2rUgB0L._SL1500_.jpg
   price_range: "<250"
   price: "200"
@@ -31,6 +32,9 @@
     amazon: https://amzn.to/2fN6EGp
 
 # >250
+- title: Boxing gloves
+  price_range: ">250"
+  price: "250"
 - title: Samsung Slim DVD writer (red)
   price_range: ">250"
   price: "300"
@@ -94,4 +98,7 @@
     amazon: https://amzn.to/2g7dbvl
 - title: New glass lenses
   price: "1,900"
+  price_range: ">1000"
+- title: Elevation desk
+  price: "?"
   price_range: ">1000"
