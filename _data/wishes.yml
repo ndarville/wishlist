@@ -13,14 +13,12 @@
   price_range: "<250"
   image: http://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
   link:
-    dk: false
     amazon: https://amzn.to/2fEatkg
 - title: "Beautiful JavaScript: Leading Programmers Explain How They Think"
   image: https://images-na.ssl-images-amazon.com/images/I/51hspzmFqyL.jpg
   price_range: "<250"
   price: "200"
   link:
-    dk: false
     bookdepository: http://www.bookdepository.com/Beautiful-JavaScript-Anton-Kovalyov/9781449370756
     amazon: https://amzn.to/2g6dvLf
 - title: Metropolis (Limited Edition Blu-ray)
@@ -28,7 +26,6 @@
   price_range: "<250"
   price: "200"
   link:
-    dk: false
     amazon: https://amzn.to/2fN6EGp
 
 # >250
@@ -49,7 +46,6 @@
   price: "300"
   bought: true
   link:
-    dk: false
     amazon: https://amzn.to/2hwyvyr
 
 # >500
@@ -58,7 +54,7 @@
   price: "500"
   price_range: ">500"
   bought: true
-  linK:
+  link:
     other: https://reactforbeginners.com
 - title: RØDE PSA-1 microphone arm
   price: "600"
@@ -78,7 +74,6 @@
   price_range: ">1000"
   image: https://images-na.ssl-images-amazon.com/images/I/51-cnvkbb8L._SL1000_.jpg
   link:
-    dk: false
     amazon: https://amzn.to/2f8rKhw
 - title: AT2035 microphone
   price: "1,250"
