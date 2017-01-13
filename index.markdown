@@ -11,9 +11,9 @@ title: Wishlist
 {% for c in site.data.charities %}
 
 <div class="tile" markdown="1">
-#### {{ c.title }} ####
+#### {{ c.title | smartify }} ####
 
-<span style="text-align: center;">[[Donate]({{ c.link }})]</span>
+<span>[[Donate]({{ c.link }})]</span>
 </div>
 {% endfor %}
 
@@ -23,15 +23,15 @@ title: Wishlist
 {% for w in range[1] %}{% unless w.bought or w.hidden %}
 
 <div class="tile" markdown="1">
-#### {{ w.title }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }},-**}</span>{% endif %} ####
+#### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }},-**}</span>{% endif %} ####
 
-{% if w.image %}![{{ w.title }}]({{ w.image }}){% endif %}
+{% if w.image %}![{{ w.title | smartify }}]({{ w.image }}){% endif %}
 
 {% if w.link.dk or w.link.bookdepository or w.link.amazon %}
-<span style="text-align: center;">{% if w.link.dk %}[[Dansk butik]({{ w.link.dk }})]{% if w.link.amazon %} / {% endif %}{% endif %}{% if w.link.bookdepository %}[[Book Depository]({{ w.link.bookdepository }})]{% if w.link.amazon %} / {% endif %}{% endif %}{% if w.link.amazon %}[[Amazon]({{ w.link.amazon }})]{% endif %}</span>
+<span>{% if w.link.dk %}[[Dansk butik]({{ w.link.dk }})]{% if w.link.amazon %} / {% endif %}{% endif %}{% if w.link.bookdepository %}[[Book Depository]({{ w.link.bookdepository }})]{% if w.link.amazon %} / {% endif %}{% endif %}{% if w.link.amazon %}[[Amazon]({{ w.link.amazon }})]{% endif %}</span>
 {% endif %}
 {% if w.link.other %}
-<span style="text-align: center;">[[Purchase]({{ w.link.other }})]</span>
+<span>[[Purchase]({{ w.link.other }})]</span>
 {% endif %}
 </div>
 {% endunless %}{% endfor %}
