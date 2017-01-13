@@ -36,7 +36,3 @@ title: Wishlist
 </div>
 {% endunless %}{% endfor %}
 {% endfor %}
-
-
-[mini]: http://www.chromeindustries.com/product/mini-metro-messenger-bag/BG-001.html
-[regular]: http://www.chromeindustries.com/product/citizen-messenger-bag/BG-002.html?dwvar_BG-002_color=BKBK&cgid=messenger_bags
