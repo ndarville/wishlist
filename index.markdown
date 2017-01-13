@@ -39,9 +39,12 @@ price_ranges:
 
 {% if w.image %}![{{ w.title }}]({{ w.image }}){% endif %}
 
-{% if w.link.dk or w.link.amazon %}
-<span style="text-align: center;">{% if w.link.dk != false %}[[Dansk butik]({{ w.link.dk }})] / {% endif %}[[Amazon]({{ w.link.amazon }})]</span>
-{% endif %}
+{% if w.link.dk or w.link.bookdepository or w.link.amazon %}<span style="text-align: center;">
+    {% if w.link.dk != false %}[[Dansk butik]({{ w.link.dk }})] / {% endif %}
+    {% if w.link.bookdepository %}[[Book Depository]({{ w.link.bookdepository }})] / {% endif %}
+    [[Amazon]({{ w.link.amazon }})]
+</span>{% endif %}
+
 {% if link.other %}<span style="text-align: center;">[[Purchase]({{ w.link.other }})]</span>{% endif %}
 </div>
 {% endif %}{% endunless %}{% endfor %}
