@@ -22,7 +22,7 @@ price_ranges:
 {% if w.image %}![{{ w.title }}]({{ w.image }}){% endif %}
 
 {% if w.link.dk or w.link.bookdepository or w.link.amazon %}
-<span style="text-align: center;">{% if w.link.dk %}[[Dansk butik]({{ w.link.dk }})] / {% endif %}{% if w.link.bookdepository %}[[Book Depository]({{ w.link.bookdepository }})] / {% endif %}{% if w.link.amazon %}[[Amazon]({{ w.link.amazon }})]{% endif %}</span>
+<span style="text-align: center;">{% if w.link.dk %}[[Dansk butik]({{ w.link.dk }})]{% if w.link.amazon %} / {% endif %}{% endif %}{% if w.link.bookdepository %}[[Book Depository]({{ w.link.bookdepository }})]{% if w.link.amazon %} / {% endif %}{% endif %}{% if w.link.amazon %}[[Amazon]({{ w.link.amazon }})]{% endif %}</span>
 {% else %}
 <span style="text-align: center;">[[Purchase]({{ w.link.other }})]</span>
 {% endif %}
