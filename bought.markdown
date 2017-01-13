@@ -2,7 +2,7 @@
 layout: default
 title: Wishlist (Bought)
 price_ranges:
-#   - "<250"
+    - "<250"
     - ">250"
     - ">500"
     - ">1000"
