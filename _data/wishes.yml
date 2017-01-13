@@ -1,128 +1,117 @@
 # <250
-- title: Tennis socks
-  price_range: "<250"
-- title: Bookmarks
-  price_range: "<250"
-- title: Underpants
-  price_range: "<250"
-  bought: true
-- title: PlayStation Store gift card
-  price_range: "<250"
-- title: Headphone hanger
-  image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
-  price_range: "<250"
-  price: "200"
-  link:
-    amazon: https://amzn.to/2fEatkg
-- title: "Beautiful JavaScript: Leading Programmers Explain How They Think"
-  image: https://images-na.ssl-images-amazon.com/images/I/51hspzmFqyL.jpg
-  price_range: "<250"
-  price: "200"
-  link:
-    bookdepository: http://www.bookdepository.com/Beautiful-JavaScript-Anton-Kovalyov/9781449370756
-    amazon: https://amzn.to/2g6dvLf
-- title: Metropolis (Limited Edition Blu-ray)
-  image: https://images-na.ssl-images-amazon.com/images/I/71id2rUgB0L._SL1500_.jpg
-  price_range: "<250"
-  price: "200"
-  link:
-    amazon: https://amzn.to/2fN6EGp
+lt250:
+    - title: Tennis socks
+    - title: Bookmarks
+    - title: Underpants
+      bought: true
+    - title: PlayStation Store gift card
+    - title: Headphone hanger
+      image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
+      price: "200"
+      link:
+        amazon: https://amzn.to/2fEatkg
+    - title: "Beautiful JavaScript: Leading Programmers Explain How They Think"
+      image: https://images-na.ssl-images-amazon.com/images/I/51hspzmFqyL.jpg
+      price: "200"
+      link:
+        bookdepository: http://www.bookdepository.com/Beautiful-JavaScript-Anton-Kovalyov/9781449370756
+        amazon: https://amzn.to/2g6dvLf
+    - title: Metropolis (Limited Edition Blu-ray)
+      image: https://images-na.ssl-images-amazon.com/images/I/71id2rUgB0L._SL1500_.jpg
+      price: "200"
+      link:
+        amazon: https://amzn.to/2fN6EGp
 
 # >250
-- title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
-  image: https://images-na.ssl-images-amazon.com/images/I/41TzErYBNWL._SX331_BO1,204,203,200_.jpg
-  price_range: ">250"
-  price: "250"
-  link:
-    amazon: https://amzn.to/2jgvvXQ
-    bookdepository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
-    dk: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
-- title: Boxing gloves
-  price_range: ">250"
-  price: "250"
-- title: Samsung Slim DVD writer (red)
-  image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
-  price_range: ">250"
-  price: "300"
-  bought: true
-  link:
-    dk: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
-    amazon: https://amzn.to/2g5XciP
-- title: IBM and the Holocaust (Pbk)
-  image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
-  price_range: ">250"
-  price: "300"
-  bought: true
-  link:
-    amazon: https://amzn.to/2hwyvyr
+gt250:
+    - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
+      image: https://images-na.ssl-images-amazon.com/images/I/41TzErYBNWL._SX331_BO1,204,203,200_.jpg
+      price: "250"
+      link:
+        amazon: https://amzn.to/2jgvvXQ
+        bookdepository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
+        dk: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
+    - title: Boxing gloves
+      price: "250"
+    - title: Samsung Slim DVD writer (red)
+      image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
+      price: "300"
+      bought: true
+      link:
+        dk: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
+        amazon: https://amzn.to/2g5XciP
+    - title: IBM and the Holocaust (Pbk)
+      image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
+      price: "300"
+      bought: true
+      link:
+        amazon: https://amzn.to/2hwyvyr
+    - title: Parliament Book
+      link:
+        other: http://www.parliamentbook.com/book
 
 # >500
+gt500:
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
-- title: React for Beginners
-  price_range: ">500"
-  price: "500"
-  bought: true
-  link:
-    other: https://reactforbeginners.com
-- title: RØDE PSA-1 microphone arm
-  image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/114512/8668422_800.jpg
-  price_range: ">500"
-  price: "600"
-  bought: true
-  link:
-    dk: https://www.thomann.de/dk/rode_psa1.htm
-    amazon: https://amzn.to/2fdsIZR
-- title: PSU
-  hidden: true
-  price_range: ">500"
+    - title: React for Beginners
+      price: "500"
+      bought: true
+      link:
+        other: https://reactforbeginners.com
+    - title: RØDE PSA-1 microphone arm
+      image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/114512/8668422_800.jpg
+      price: "600"
+      bought: true
+      link:
+        dk: https://www.thomann.de/dk/rode_psa1.htm
+        amazon: https://amzn.to/2fdsIZR
+    - title: PSU
+      hidden: true
 
 # >1000
-- title: Ergotron Freedom Arm &times;2
-  image: https://images-na.ssl-images-amazon.com/images/I/51-cnvkbb8L._SL1000_.jpg
-  price_range: ">1000"
-  price: "1,000"
-  link:
-    amazon: https://amzn.to/2f8rKhw
-- title: AT2035 microphone
-  image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/219514/6355264_800.jpg
-  price_range: ">1000"
-  price: "1,250"
-  bought: true
-  link:
-    dk: https://www.thomann.de/dk/audio_technica_at2035.htm
-    amazon: https://amzn.to/2fusM8s
-- title: Logitech G900
-  image: http://images.anandtech.com/doci/10187/Logitech%20G900%20Chaos%20Spectrum_TopDown_onWhite.jpg
-  price_range: ">1000"
-  price: "1,250--1,500"
-  bought: true # 83 GBP
-  link:
-    dk: http://www.bj-trading.dk/bjshop/default.asp?pv=910-004608&pn=Logitech&gruppe=mus&overgr=Hardware&vare=184667&f=edbp
-    amazon: https://amzn.to/2g7dbvl
-- title: Be Quiet Dark Base 900
-  image: https://media.dustin.eu/image/193692/960/720/be-quiet-dark-base-900-silver.jpg
-  price_range: ">1000"
-  price: "1,595"
-  link:
-    dk: https://www.dustinhome.dk/product/5010968903/dark-base-900
-- title: New PSU
-  price_range: ">1000"
-  price: "<2,000"
-- title: New glass lenses
-  price_range: ">1000"
-  price: "1,900"
-- title: Elevation desk
-  price_range: ">1000"
-  price: "?"
+gt1000:
+    - title: Ergotron Freedom Arm &times;2
+      image: https://images-na.ssl-images-amazon.com/images/I/51-cnvkbb8L._SL1000_.jpg
+      price: "1,000"
+      link:
+        amazon: https://amzn.to/2f8rKhw
+    - title: AT2035 microphone
+      image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/219514/6355264_800.jpg
+      price: "1,250"
+      bought: true
+      link:
+        dk: https://www.thomann.de/dk/audio_technica_at2035.htm
+        amazon: https://amzn.to/2fusM8s
+    - title: Logitech G900
+      image: http://images.anandtech.com/doci/10187/Logitech%20G900%20Chaos%20Spectrum_TopDown_onWhite.jpg
+      price: "1,250--1,500"
+      bought: true # 83 GBP
+      link:
+        dk: http://www.bj-trading.dk/bjshop/default.asp?pv=910-004608&pn=Logitech&gruppe=mus&overgr=Hardware&vare=184667&f=edbp
+        amazon: https://amzn.to/2g7dbvl
+    - title: Be Quiet Dark Base 900
+      image: https://media.dustin.eu/image/193692/960/720/be-quiet-dark-base-900-silver.jpg
+      price: "1,595"
+      link:
+        dk: https://www.dustinhome.dk/product/5010968903/dark-base-900
+    - title: New PSU
+      price: "<2,000"
+    - title: New glass lenses
+      price: "1,900"
+    - title: Elevation desk
+      price: "?"
 
-- title: Nintendo Switch (Neon Red/Blue Version)
-  image: https://images-na.ssl-images-amazon.com/images/I/81IQp9uUdRL._SL1500_.jpg
-  hidden: true
-  price_range: ">1000"
-  price: "?"
-  link:
-    amazon: https://amzn.to/2jggQMk
-- title: "Legend of Zelda: Breath of the Wild (Switch)"
-  hidden: true
-- title: Mario Kart 8 Deluxe
-  hidden: true
+# * Citizen Messenger bag (red)
+#     - `[x]` [Mini][] ($120)
+#     - `[ ]` [Regular][]
+#
+# - title: Nintendo Switch (Neon Red/Blue Version)
+#   image: https://images-na.ssl-images-amazon.com/images/I/81IQp9uUdRL._SL1500_.jpg
+#   hidden: true
+#   price: "?"
+#   link:
+#     amazon: https://amzn.to/2jggQMk
+# - title: "Legend of Zelda: Breath of the Wild (Switch)"
+#   hidden: true
+# - title: Mario Kart 8 Deluxe
+#   hidden: true

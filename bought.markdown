@@ -1,20 +1,16 @@
 ---
 layout: default
 title: Wishlist (Bought)
-price_ranges:
-    - "<250"
-    - ">250"
-    - ">500"
-    - ">1000"
 ---
 <i>(Prices in curly brackets are in DKK by default.)</i>
 
 * TOC
 {:toc}
 
-{% for range in page.price_ranges %}
-### {{ range }},- ###
-{% for w in site.data.wishes %}{% unless w.bought != true %}{% if w.price_range == range %}
+{% for range in site.data.wishes %}
+### {{ range[0] | replace:"lt","<" | replace:"gt",">" }},- ###
+
+{% for w in range[1] %}{% unless w.bought != true %}
 
 <div class="tile" markdown="1">
 #### {{ w.title }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }},-**}</span>{% endif %} ####
@@ -28,5 +24,5 @@ price_ranges:
 <span style="text-align: center;">[[Purchase]({{ w.link.other }})]</span>
 {% endif %}
 </div>
-{% endif %}{% endunless %}{% endfor %}
+{% endunless %}{% endfor %}
 {% endfor %}
