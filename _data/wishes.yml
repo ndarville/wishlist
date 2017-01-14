@@ -5,6 +5,7 @@ lt250:
     - title: Underpants
       bought: true
     - title: PlayStation Store gift card
+      bought: true
     - title: Headphone hanger
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
       price: "200"
@@ -65,8 +66,6 @@ gt500:
       link:
         dansk_butik: https://www.thomann.de/dk/rode_psa1.htm
         amazon: https://amzn.to/2fdsIZR
-    - title: PSU
-      hidden: true
 
 # >1000
 gt1000:
@@ -95,11 +94,17 @@ gt1000:
       link:
         dansk_butik: https://www.dustinhome.dk/product/5010968903/dark-base-900
     - title: New PSU
-      price: "<2,000"
+      image: https://www.dustinhome.dk/product/5010619333/platinum-series
+      price: "1,500-2,000"
+      link:
+        seasonic: http://cdon.dk/hjem-have/seasonic-platinum-860-xp2-860w-fully-modular-p36501763
     - title: New glass lenses
       price: "1,900"
     - title: Elevation desk
+      image: https://i.imgur.com/sZ9WsNz.jpg
       price: "?"
+      link:
+        ikea: http://www.ikea.com/dk/da/catalog/products/S39022505/#/S59022509
 
 # * Citizen Messenger bag (red)
 #     - `[x]` [Mini][] ($120)
