@@ -1,2 +1,10 @@
+# Supports the fields `title`, `link`, and `image`.
+#
+# You can only use one link, and the image field is optional.
+#
+# To disable charities for your wishlist,
+# set the field `enable_charities` in `index.markdown`
+# from `true` to `false`.
+
 - title: American Civil Liberties Union
   link: https://www.aclu.org
