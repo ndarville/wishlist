@@ -14,7 +14,7 @@ lt250:
       image: https://images-na.ssl-images-amazon.com/images/I/51hspzmFqyL.jpg
       price: "200"
       link:
-        bookdepository: http://www.bookdepository.com/Beautiful-JavaScript-Anton-Kovalyov/9781449370756
+        book_depository: http://www.bookdepository.com/Beautiful-JavaScript-Anton-Kovalyov/9781449370756
         amazon: https://amzn.to/2g6dvLf
     - title: Metropolis (Limited Edition Blu-ray)
       image: https://images-na.ssl-images-amazon.com/images/I/71id2rUgB0L._SL1500_.jpg
@@ -29,8 +29,8 @@ gt250:
       price: "250"
       link:
         amazon: https://amzn.to/2jgvvXQ
-        bookdepository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
-        dk: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
+        book_depository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
+        dansk_butik: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
     - title: Boxing gloves
       price: "250"
     - title: Samsung Slim DVD writer (red)
@@ -38,7 +38,7 @@ gt250:
       price: "300"
       bought: true
       link:
-        dk: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
+        dansk_butik: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
         amazon: https://amzn.to/2g5XciP
     - title: IBM and the Holocaust (Pbk)
       image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
@@ -48,7 +48,7 @@ gt250:
         amazon: https://amzn.to/2hwyvyr
     - title: Parliament Book
       link:
-        other: http://www.parliamentbook.com/book
+        purchase: http://www.parliamentbook.com/book
 
 # >500
 gt500:
@@ -57,13 +57,13 @@ gt500:
       price: "500"
       bought: true
       link:
-        other: https://reactforbeginners.com
+        purchase: https://reactforbeginners.com
     - title: RØDE PSA-1 microphone arm
       image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/114512/8668422_800.jpg
       price: "600"
       bought: true
       link:
-        dk: https://www.thomann.de/dk/rode_psa1.htm
+        dansk_butik: https://www.thomann.de/dk/rode_psa1.htm
         amazon: https://amzn.to/2fdsIZR
     - title: PSU
       hidden: true
@@ -80,20 +80,20 @@ gt1000:
       price: "1,250"
       bought: true
       link:
-        dk: https://www.thomann.de/dk/audio_technica_at2035.htm
+        dansk_butik: https://www.thomann.de/dk/audio_technica_at2035.htm
         amazon: https://amzn.to/2fusM8s
     - title: Logitech G900
       image: http://images.anandtech.com/doci/10187/Logitech%20G900%20Chaos%20Spectrum_TopDown_onWhite.jpg
       price: "1,250--1,500"
       bought: true # 83 GBP
       link:
-        dk: http://www.bj-trading.dk/bjshop/default.asp?pv=910-004608&pn=Logitech&gruppe=mus&overgr=Hardware&vare=184667&f=edbp
+        dansk_butik: http://www.bj-trading.dk/bjshop/default.asp?pv=910-004608&pn=Logitech&gruppe=mus&overgr=Hardware&vare=184667&f=edbp
         amazon: https://amzn.to/2g7dbvl
     - title: Be Quiet Dark Base 900
       image: https://media.dustin.eu/image/193692/960/720/be-quiet-dark-base-900-silver.jpg
       price: "1,595"
       link:
-        dk: https://www.dustinhome.dk/product/5010968903/dark-base-900
+        dansk_butik: https://www.dustinhome.dk/product/5010968903/dark-base-900
     - title: New PSU
       price: "<2,000"
     - title: New glass lenses

@@ -2,8 +2,6 @@
 layout: default
 title: Wishlist (Bought)
 ---
-<i>(Prices in curly brackets are in DKK by default.)</i>
-
 * TOC
 {:toc}
 
@@ -17,11 +15,8 @@ title: Wishlist (Bought)
 
 {% if w.image %}![{{ w.title | smartify }}]({{ w.image }}){% endif %}
 
-{% if w.link.dk or w.link.bookdepository or w.link.amazon %}
-<span>{% if w.link.dk %}[[Dansk butik]({{ w.link.dk }})]{% if w.link.amazon %} / {% endif %}{% endif %}{% if w.link.bookdepository %}[[Book Depository]({{ w.link.bookdepository }})]{% if w.link.amazon %} / {% endif %}{% endif %}{% if w.link.amazon %}[[Amazon]({{ w.link.amazon }})]{% endif %}</span>
-{% endif %}
-{% if w.link.other %}
-<span>[[Purchase]({{ w.link.other }})]</span>
+{% if w.link %}
+<span>{% for l in w.link %}[[{{ l[0] | replace:"_"," " | capitalize }}]({{ l[1] }})]{% if forloop.length > 1 and forloop.last == false %} / {% endif %}{% endfor %}</span>
 {% endif %}
 </div>
 {% endunless %}{% endfor %}
