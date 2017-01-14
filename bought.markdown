@@ -6,12 +6,12 @@ title: Wishlist (Bought)
 {:toc}
 
 {% for range in site.data.wishes %}
-### {{ range[0] | replace:"lt","<" | replace:"gt",">" }},- ###
+### {{ range[0] | replace:"lt","<" | replace:"gt",">" }} ###
 
 {% for w in range[1] %}{% unless w.bought != true %}
 
 <div class="tile" markdown="1">
-#### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }},-**}</span>{% endif %} ####
+#### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }}**}</span>{% endif %} ####
 
 {% if w.image %}![Image for {{ w.title | smartify }}]({{ w.image }}){% endif %}
 
