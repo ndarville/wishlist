@@ -104,14 +104,3 @@ gt1000:
 # * Citizen Messenger bag (red)
 #     - `[x]` [Mini][] ($120)
 #     - `[ ]` [Regular][]
-#
-# - title: Nintendo Switch (Neon Red/Blue Version)
-#   image: https://images-na.ssl-images-amazon.com/images/I/81IQp9uUdRL._SL1500_.jpg
-#   hidden: true
-#   price: "?"
-#   link:
-#     amazon: https://amzn.to/2jggQMk
-# - title: "Legend of Zelda: Breath of the Wild (Switch)"
-#   hidden: true
-# - title: Mario Kart 8 Deluxe
-#   hidden: true
