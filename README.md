@@ -2,6 +2,8 @@ Wishlist
 ========
 With Wishlist, you can create a well-designed overview of your wishes with eminently readable text and mobile support.
 
+The emphasis of the wishlist design is that the text is big, filled with images to explain the product, and last but not least, an ordering based on price ranges, which is the main deciding factor for a purchase.
+
 The site will be available at `github_username.github.io`.
 
 If you know your way around Jekyll, GitHub, or static pages, you’ll also know how to host this elsewhere.
