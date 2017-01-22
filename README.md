@@ -4,6 +4,8 @@ It used to be that I could just press a button in my browser, and a link would b
 
 With Wishlist, you can create your **own** well-designed overview of your wishes with eminently readable text and mobile support. Independent on the whims, motives, and business models of other websites.
 
+Of course, this is a wishlist mainly in name; if you want to create a list of charities or causes for people to support, you go right ahead and realize that project. In keeping with the spirit of these times, Wishlist also has built-in support for adding a list of charities people can donate to in your name in place of or in tandem with other regular wishes on your list.
+
 The emphasis of the wishlist design is that the text is big, filled with images to explain the product, and last but not least, an ordering based on price ranges, which is the main deciding factor for a purchase.
 
 The site will be available at `github_username.github.io`.
