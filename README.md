@@ -1,6 +1,6 @@
 Wishlist
 ========
-It used to be that I could just press a button in my browser, and a link would be added to my Pinterest board of wishes. Now, Pinterest track their users across the Web, and you can't give your friends and family a shareable link that doesn't require them to register a user on Pinterest.
+It used to be that I could just press a button in my browser, and a link would be added to my Pinterest board of wishes. Now, Pinterest track their users across the Web, and you can’t give your friends and family a shareable link that doesn’t require them to register a user on Pinterest.
 
 With Wishlist, you can create your **own** well-designed overview of your wishes with eminently readable text and mobile support. Independent on the whims, motives, and business models of other websites.
 
