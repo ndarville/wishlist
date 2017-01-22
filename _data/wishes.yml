@@ -86,14 +86,14 @@ gt1000:
         amazon: https://amzn.to/2g7dbvl
     - title: Be Quiet Dark Base 900
       image: https://media.dustin.eu/image/193692/960/720/be-quiet-dark-base-900-silver.jpg
-      price: "1,595"
+      price: "1,600"
       link:
         dansk_butik: https://www.dustinhome.dk/product/5010968903/dark-base-900
     - title: New PSU
-      image: https://media.dustin.eu/image/213201/400/320/seasonic-prime-titanium-650w-fully-modular-650watt-80-plus-titanium.jpg
-      price: "1,695"
+      image: https://media.dustin.eu/image/213218/400/320/seasonic-prime-titanium-750w-fully-modular-750watt-80-plus-titanium.jpg
+      price: "1,900"
       link:
-        seasonic: https://www.dustinhome.dk/product/5010977586/prime-titanium-650w-fully-modular
+        seasonic: https://www.dustinhome.dk/product/5010977588/prime-titanium-750w-fully-modular
     - title: New glass lenses
       price: "1,900"
     - title: Elevation desk
