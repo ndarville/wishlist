@@ -6,6 +6,11 @@ lt250:
       bought: true
     - title: PlayStation Store gift card
       bought: true
+    - title: The Assassin
+      image: https://images-na.ssl-images-amazon.com/images/I/81f1SFPg3ML._SL1500_.jpg
+      price: "100"
+      link:
+        amazon: https://amzn.to/2kjmg9M
     - title: Headphone hanger
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
       price: "200"
