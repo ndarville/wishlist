@@ -27,6 +27,11 @@ lt250:
       price: "200"
       link:
         amazon: https://amzn.to/2fN6EGp
+    - title: Det underdanige og det magtfulde
+      image: https://imgcdn.saxo.com/_9788793128576/500x0
+      price: "200"
+      link:
+        saxo: https://www.saxo.com/dk/det-underdanige-og-det-magtfulde_susan-simonsen_haeftet_9788793128576
 # >250
 gt250:
     - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
