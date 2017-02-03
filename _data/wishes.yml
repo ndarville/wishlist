@@ -67,20 +67,6 @@ gt1000:
       price: "1,000"
       link:
         amazon: https://amzn.to/2f8rKhw
-    - title: AT2035 microphone
-      image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/219514/6355264_800.jpg
-      price: "1,250"
-      bought: true
-      link:
-        dansk_butik: https://www.thomann.de/dk/audio_technica_at2035.htm
-        amazon: https://amzn.to/2fusM8s
-    - title: Logitech G900
-      image: http://images.anandtech.com/doci/10187/Logitech%20G900%20Chaos%20Spectrum_TopDown_onWhite.jpg
-      price: "1,250--1,500"
-      bought: true
-      link:
-        dansk_butik: http://www.bj-trading.dk/bjshop/default.asp?pv=910-004608&pn=Logitech&gruppe=mus&overgr=Hardware&vare=184667&f=edbp
-        amazon: https://amzn.to/2g7dbvl
     - title: Be Quiet Dark Base 900
       image: https://media.dustin.eu/image/193692/960/720/be-quiet-dark-base-900-silver.jpg
       price: "1,600"
