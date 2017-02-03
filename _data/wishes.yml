@@ -76,6 +76,7 @@ gt500:
 # >1000
 gt1000:
     - title: Ergotron Freedom Arm &times;2
+      hidden: true
       image: https://images-na.ssl-images-amazon.com/images/I/51-cnvkbb8L._SL1000_.jpg
       price: "1,000"
       link:
