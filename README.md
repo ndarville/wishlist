@@ -81,8 +81,11 @@ Credits
 TODO
 ----
 * RSS?
-* Capitalization of each word in a link name
-* Remove price range if all wishes are hidden or bought
+* Link-name capitalization
+    - Doesn’t work for multiple words nor all-caps like “IKEA”
+* Fix empty price ranges
+    - Remove price range for wishlist if all wishes are hidden or bought
+    - Remove price range for boughtlist if no wishes are bought
 
 
 [registration page]: https://github.com/join
