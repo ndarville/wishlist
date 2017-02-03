@@ -107,10 +107,10 @@ gt1000:
     - title: New glass lenses
       price: "1,900"
     - title: Elevation desk
-      image: https://i.imgur.com/sZ9WsNz.jpg
-      price: "?"
+      image: http://www.ikea.com/dk/da/images/products/bekant-skrivebord-h-ve-s-nke-sort__0252668_PE391350_S4.JPG
+      price: "3,000"
       link:
-        ikea: http://www.ikea.com/dk/da/catalog/products/S39022505/#/S59022509
+        ikea: http://www.ikea.com/dk/da/catalog/products/S59022509/
 
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
 #
