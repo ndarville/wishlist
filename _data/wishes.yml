@@ -59,20 +59,6 @@ gt250:
     - title: Parliament Book
       link:
         purchase: http://www.parliamentbook.com/book
-# >500
-gt500:
-    - title: React for Beginners
-      price: "500"
-      bought: true
-      link:
-        purchase: https://reactforbeginners.com
-    - title: RØDE PSA-1 microphone arm
-      image: https://thumbs5.static-thomann.de/thumb/bdbmagic/pics/bdb/114512/8668422_800.jpg
-      price: "600"
-      bought: true
-      link:
-        dansk_butik: https://www.thomann.de/dk/rode_psa1.htm
-        amazon: https://amzn.to/2fdsIZR
 # >1000
 gt1000:
     - title: Ergotron Freedom Arm &times;2
