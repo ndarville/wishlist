@@ -18,12 +18,7 @@ How-To
 ------
 1. Create a GitHub user, if you don’t already have one. Here is the [registration page][].
 
-    Make **sure** to choose a username that easily identifies you, eg
-
-    * `firstname|lastname`
-    * `firstnameInitial|lastname`
-
-    as the username will be a part of the website URL.
+    The username you choose will be a part of the website URL.
 
 2. Go to your [e-mail settings][] and make sure you’ve checked the box “Keep my email address private”.
 3. [Create a repo][] named `{{ github_username }}.github.io` on GitHub.
