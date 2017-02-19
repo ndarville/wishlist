@@ -1,12 +1,14 @@
 # <250
 lt250:
     - title: Tennis socks
+      bought: true
     - title: Bookmarks
     - title: Underpants
       bought: true
     - title: PlayStation Store gift card
       bought: true
     - title: The Assassin
+      bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/81f1SFPg3ML._SL1500_.jpg
       price: "100"
       link:
@@ -23,15 +25,11 @@ lt250:
         book_depository: http://www.bookdepository.com/Beautiful-JavaScript-Anton-Kovalyov/9781449370756
         amazon: https://amzn.to/2g6dvLf
     - title: Metropolis (Limited Edition Blu-ray)
+      bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/71id2rUgB0L._SL1500_.jpg
       price: "200"
       link:
         amazon: https://amzn.to/2fN6EGp
-    - title: Det underdanige og det magtfulde
-      image: https://imgcdn.saxo.com/_9788793128576/500x0
-      price: "200"
-      link:
-        saxo: https://www.saxo.com/dk/det-underdanige-og-det-magtfulde_susan-simonsen_haeftet_9788793128576
 # >250
 gt250:
     - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
@@ -51,9 +49,9 @@ gt250:
         dansk_butik: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
         amazon: https://amzn.to/2g5XciP
     - title: IBM and the Holocaust (Pbk)
+      bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
       price: "300"
-      bought: true
       link:
         amazon: https://amzn.to/2hwyvyr
     - title: Parliament Book
@@ -79,9 +77,8 @@ gt1000:
       price: "1,900"
       link:
         dansk_butik: https://www.dustinhome.dk/product/5010977588/prime-titanium-750w-fully-modular
-    - title: New glass lenses
-      price: "1,900"
     - title: Elevation desk
+      bought: true
       image: http://www.ikea.com/dk/da/images/products/bekant-skrivebord-h-ve-s-nke-sort__0252668_PE391350_S4.JPG
       price: "3,000"
       link:
