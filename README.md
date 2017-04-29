@@ -30,7 +30,9 @@ How-To
 
         https://github.com/ndarville/wishlist
 
-5. Update `wishes.yml`, when you create new work you want to share.
+5. Delete `CNAME` which points to the custom domain of my wishlist. If you want to use your own custom domain, keep it but change it to point to yours instead.
+
+6. Update `wishes.yml`, when you create new work you want to share.
 
     You can do this with Git or the browser interface at
 
@@ -38,7 +40,7 @@ How-To
 
     Consult [`_data/sample.yml`](https://github.com/ndarville/wishlist/blob/master/_data/sample.yml) for an in-depth explanation of the wishlist format.
 
-6. There’s also an optional `/_data/charities.yml` you can edit, if you want to encourage friends and families to donate to a charity in your name instead.
+7. There’s also an optional `/_data/charities.yml` you can edit, if you want to encourage friends and families to donate to a charity in your name instead.
 
     This is enabled by default and uses the American Civil Liberties Union as an example.
 
@@ -49,6 +51,8 @@ Congrats on your new site!
 If you’ve received one of your wishes, you can either delete them or mark them as `bought: true`. If you do the latter, it will show up on the `/bought` of your site. You can also use `hidden: true`, if you want the wish not to be displayed anywhere for the time being.
 
 **NB:** Remember to link to the *HTTPS* version of you website, as GitHub Pages does not redirect from HTTP automatically. (If you forget or don’t understand what this means, it’s not the end of the world.)
+
+Be aware that this is basically just the repo for my own wishlist, so don’t expect to be able to do a `git pull` or `git fetch` without something breaking. Besides, the wishlist is pretty much fine in its current state for the most part.
 
 Can I use a custom domain name?
 -------------------------------
