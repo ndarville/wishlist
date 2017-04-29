@@ -87,11 +87,14 @@ Credits
 TODO
 ----
 * RSS?
+
+Known issues
+------------
 * Link-name capitalization
-    - Doesn’t work for multiple words nor all-caps like “IKEA”
-* Fix empty price ranges
-    - Remove price range for wishlist if all wishes are hidden or bought
-    - Remove price range for boughtlist if no wishes are bought
+    - Doesn’t work for multiple-word names nor all-caps like “IKEA”
+* Empty price ranges
+    - Empty price ranges shown when all wishes in range are all hidden or bought
+    - Similar issue for the boughtlist when no wishes in the range are bought
 
 
 [registration page]: https://github.com/join
