@@ -36,7 +36,7 @@ How-To
 
     You can do this with Git or the browser interface at
 
-        https://github.com/{{ github_username }}/{{ github_username }}.github.io/edit/master/_data/wishes.yml
+        https://github.com/{{ github_username }}/{{ github_repo }}/edit/master/_data/wishes.yml
 
     Consult [`_data/sample.yml`](https://github.com/ndarville/wishlist/blob/master/_data/sample.yml) for an in-depth explanation of the wishlist format.
 
@@ -46,11 +46,13 @@ How-To
 
     To disable charities for your wishlist, set the field `enable_charities` in `index.markdown` from `true` to `false`.
 
+8. Go to the settings of your repo, `github.com/{{ github_username }}/your_repo/settings` under Options and GitHub GitHub Pages.
+
+    There, check the box on **Enforce HTTPS**. You can also set the custom domain here, which is handled by the `CNAME` file in your repo.
+
 Congrats on your new site!
 
 If you’ve received one of your wishes, you can either delete them or mark them as `bought: true`. If you do the latter, it will show up on the `/bought` of your site. You can also use `hidden: true`, if you want the wish not to be displayed anywhere for the time being.
-
-**NB:** Remember to link to the *HTTPS* version of you website, as GitHub Pages does not redirect from HTTP automatically. (If you forget or don’t understand what this means, it’s not the end of the world.)
 
 Be aware that this is basically just the repo for my own wishlist, so don’t expect to be able to do a `git pull` or `git fetch` without something breaking. Besides, the wishlist is pretty much fine in its current state for the most part.
 
