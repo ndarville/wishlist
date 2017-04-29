@@ -1,0 +1,27 @@
+# This is a sample file to give you an idea of how to enter your wishes.
+
+# First, create a dictionary key (word with a colon) for your price range.
+# It should have the format `ltXXX` or `gtXXX` with `lt` and `gt` meaning `<` and `>`.
+# The number following can be as big as you want, as long as you only use numbers.
+lt250:
+    - title: That book # Self-explanatory. Use quotes around it to avoid conflicts with colons and special characters.
+      image: https://example.com/jpg # Storing images is tricky, so you'll have to link externally.
+      price: "250" # Must be a string (that means it has quotes around it). You can include separators like "," and ".".
+      link: # Contains the link(s) where people can find out more about your wish and where to buy it.
+        amazon: https://example.com/amazon # You can use any key and as many links as you want; "amazon" is just your link text
+        barnes_and_noble: https://example.com/bando
+        local_store: https://example.com/local
+        asdf: https://example.com/foo
+    - title: Touchscreen gloves
+# >1,500
+gt1500:
+    - title: Golf clubs
+
+# Always align `image`, `price`, and `link` under `title`; otherwise it breaks.
+#
+# `title` is the only required field.
+#
+# Only use **https** links (with an "s") for images; otherwise, your wishlist won't be securely encrypted.
+#
+# You can also use `bought: true` or `hidden: true` to hide wishes.
+# Wishes marked as bought will be available at /bought on your site.

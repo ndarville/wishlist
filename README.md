@@ -36,6 +36,8 @@ How-To
 
         https://github.com/{{ github_username }}/{{ github_username }}.github.io/edit/master/_data/wishes.yml
 
+    Consult [`_data/sample.yml`](https://github.com/ndarville/wishlist/blob/master/_data/sample.yml) for an in-depth explanation of the wishlist format.
+
 6. There’s also an optional `/_data/charities.yml` you can edit, if you want to encourage friends and families to donate to a charity in your name instead.
 
     This is enabled by default and uses the American Civil Liberties Union as an example.
