@@ -52,7 +52,7 @@ Can I use a custom domain name?
 -------------------------------
 [You sure can][custom-github-pages], but this is for what you might call technical people.
 
-I use it myself for [some of my projects][hafnia-times].
+For one, you’ll have to edit the `CNAME` file to point to the domain you wish to use. As you can see, mine’s set to `wishlist.ndarville.com`.
 
 I can’t get it to work :(
 -------------------------
@@ -92,7 +92,6 @@ TODO
 [e-mail settings]: https://github.com/settings/emails
 [create a repo]: https://github.com/new
 [custom-github-pages]: https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
-[hafnia-times]: https://github.com/hafniatimes/hafniatimes.github.io
 [commit history]: https://github.com/ndarville/wishlist/commits/master
 [workfolio]: https://github.com/ndarville/workfolio
 [flat ui]: https://designmodo.github.io/Flat-UI/
