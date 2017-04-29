@@ -7,13 +7,12 @@ lt250:
       bought: true
     - title: PlayStation Store gift card
       bought: true
-    - title: The Assassin
-      bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/81f1SFPg3ML._SL1500_.jpg
       price: "100"
       link:
         amazon: https://amzn.to/2kjmg9M
     - title: Headphone hanger
+      bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
       price: "200"
       link:
@@ -42,9 +41,9 @@ gt250:
     - title: Boxing gloves
       price: "250"
     - title: Samsung Slim DVD writer (red)
+      bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
       price: "300"
-      bought: true
       link:
         dansk_butik: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
         amazon: https://amzn.to/2g5XciP
@@ -59,8 +58,7 @@ gt250:
         purchase: http://www.parliamentbook.com/book
 # >1000
 gt1000:
-    - title: Ergotron Freedom Arm &times;2
-      hidden: true
+    - title: Ergotron Freedom Arm &times;2 (silver or black)
       image: https://images-na.ssl-images-amazon.com/images/I/51-cnvkbb8L._SL1000_.jpg
       price: "1,000"
       link:
