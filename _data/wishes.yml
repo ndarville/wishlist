@@ -56,13 +56,21 @@ gt250:
     - title: Parliament Book
       link:
         purchase: http://www.parliamentbook.com/book
+# >500
+gt500:
+  - title: "The Grammar of Graphics"
+    image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4419/9781441920331.jpg
+    price: "550"
+    link:
+        amazon: https://amzn.to/2qfO1Dn
+        book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
+  - title: "Seagate Firecuda SSHD (2TB)"
+    image: https://media.dustin.eu/image/236417/960/720/seagate-firecuda-sshd-2tb-sata-600-25.jpg
+    price: "800"
+    link:
+        dustinhome: https://www.dustinhome.dk/product/5011001332/firecuda-sshd
 # >1000
 gt1000:
-    - title: Ergotron Freedom Arm &times;2 (silver or black)
-      image: https://images-na.ssl-images-amazon.com/images/I/51-cnvkbb8L._SL1000_.jpg
-      price: "1,000"
-      link:
-        amazon: https://amzn.to/2f8rKhw
     - title: Be Quiet Dark Base 900
       bought: true
       image: https://media.dustin.eu/image/193692/960/720/be-quiet-dark-base-900-silver.jpg
