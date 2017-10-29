@@ -17,18 +17,6 @@ lt250:
       price: "200"
       link:
         amazon: https://amzn.to/2fEatkg
-    - title: "Beautiful JavaScript: Leading Programmers Explain How They Think"
-      image: https://images-na.ssl-images-amazon.com/images/I/51hspzmFqyL.jpg
-      price: "200"
-      link:
-        book_depository: http://www.bookdepository.com/Beautiful-JavaScript-Anton-Kovalyov/9781449370756
-        amazon: https://amzn.to/2g6dvLf
-    - title: Metropolis (Limited Edition Blu-ray)
-      bought: true
-      image: https://images-na.ssl-images-amazon.com/images/I/71id2rUgB0L._SL1500_.jpg
-      price: "200"
-      link:
-        amazon: https://amzn.to/2fN6EGp
 # >250
 gt250:
     - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
@@ -39,6 +27,7 @@ gt250:
         book_depository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
         dansk_butik: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
     - title: Boxing gloves
+      hidden: true
       price: "250"
     - title: Samsung Slim DVD writer (red)
       bought: true
@@ -47,48 +36,64 @@ gt250:
       link:
         dansk_butik: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
         amazon: https://amzn.to/2g5XciP
-    - title: IBM and the Holocaust (Pbk)
-      bought: true
-      image: https://images-na.ssl-images-amazon.com/images/I/51zItJnu8qL._SX322_BO1,204,203,200_.jpg
-      price: "300"
-      link:
-        amazon: https://amzn.to/2hwyvyr
     - title: Parliament Book
       link:
         purchase: http://www.parliamentbook.com/book
+    - title: HDMI audio extractor
+      bought: true
+    - title: Super Mario Odyssey
+      image: https://dustinweb.azureedge.net/image/278060/960/720/nintendo-super-mario-odyssey-nintendo-switch.jpg
+      price: "379"
+      link:
+        dustinhome: https://www.dustinhome.dk/product/5011032464/super-mario-odyssey
+        amazon: https://amzn.to/2zZHI9o
+    - title: "The Legend Of Zelda: Breath of the Wild"
+      image: https://dustinweb.azureedge.net/image/245454/960/720/nintendo-the-legend-of-zelda-breath-of-the-wild-nintendo-switch.png
+      price: "479"
+      link:
+        dustinhome: https://www.dustinhome.dk/product/5011007902/the-legend-of-zelda-breath-of-the-wild
+        amazon: https://amzn.to/2xxWWAK
+    - title: "Mario Kart 8 Deluxe"
+      image: https://dustinweb.azureedge.net/image/251251/960/720/nintendo-mario-kart-8-deluxe-nintendo-switch.png
+      price: "499"
+      link:
+        dustinhome: https://www.dustinhome.dk/product/5011012276/mario-kart-8-deluxe
+        amazon: https://amzn.to/2z09qVq
 # >500
 gt500:
   - title: "The Grammar of Graphics"
+    hidden: true
     image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4419/9781441920331.jpg
     price: "550"
     link:
         amazon: https://amzn.to/2qfO1Dn
         book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
+  - title: "Owning Memory"
+    hidden: true
+    image: https://imgcdn.saxo.com/_9780313320088/500x0
+    price: "599"
+    link:
+        saxo: https://www.saxo.com/dk/owning-memory_jeannette-a-bastian_hardback_9780313320088
+  - title: Subwoofer
+    hidden: true
   - title: "Seagate Firecuda SSHD (2TB)"
+    hidden: true
     image: https://media.dustin.eu/image/236417/960/720/seagate-firecuda-sshd-2tb-sata-600-25.jpg
-    price: "800"
+    price: "799"
     link:
         dustinhome: https://www.dustinhome.dk/product/5011001332/firecuda-sshd
 # >1000
 gt1000:
-    - title: Be Quiet Dark Base 900
-      bought: true
-      image: https://media.dustin.eu/image/193692/960/720/be-quiet-dark-base-900-silver.jpg
-      price: "1,600"
+    - title: Receiver
+      hidden: true
       link:
-        dansk_butik: https://www.dustinhome.dk/product/5010968903/dark-base-900
-    - title: New PSU
-      bought: true
-      image: https://media.dustin.eu/image/213218/400/320/seasonic-prime-titanium-750w-fully-modular-750watt-80-plus-titanium.jpg
-      price: "1,900"
+        wirecutter: http://thewirecutter.com/reviews/best-receiver
+    - title: Nintendo Switch
+      image: https://dustinweb.azureedge.net/image/244601/960/720/nintendo-switch-with-neon-joy-con-32gb.jpg
+      price: "2499"
       link:
-        dansk_butik: https://www.dustinhome.dk/product/5010977588/prime-titanium-750w-fully-modular
-    - title: Elevation desk
-      bought: true
-      image: http://www.ikea.com/dk/da/images/products/bekant-skrivebord-h-ve-s-nke-sort__0252668_PE391350_S4.JPG
-      price: "3,000"
-      link:
-        ikea: http://www.ikea.com/dk/da/catalog/products/S59022509/
+        dustinhome: https://www.dustinhome.dk/product/5011007342/switch-with-neon-joy-con
+        amazon: https://amzn.to/2zXQrZy
 
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
 #
