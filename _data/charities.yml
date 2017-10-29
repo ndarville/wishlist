@@ -6,7 +6,5 @@
 # set the field `enable_charities` in `index.markdown`
 # from `true` to `false`.
 
-- title: ACLU
-  link: https://action.aclu.org/donate-aclu?ms=web_horiz_nav_hp
 - title: CAIR
   link: https://www.cair.com/donations/general-donation/campaign/#/donation
