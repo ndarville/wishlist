@@ -37,6 +37,7 @@ gt250:
         dansk_butik: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
         amazon: https://amzn.to/2g5XciP
     - title: Parliament Book
+      hidden: true
       link:
         purchase: http://www.parliamentbook.com/book
     - title: HDMI audio extractor
