@@ -11,6 +11,13 @@ lt250:
       price: "100"
       link:
         amazon: https://amzn.to/2kjmg9M
+    - title: Nintendo Switch Joy-Con Wheel
+      image: https://dustinweb.azureedge.net/image/251274/960/720/nintendo-switch-joy-con-wheel-pair-sort.jpg
+      price: "149"
+      link:
+        dustinhome: https://www.dustinhome.dk/product/5011012277/switch-joy-con-wheel-pair
+        elgiganten: https://www.elgiganten.dk/product/gaming/tilbehor-til-spillekonsoller/SWIWHEELDPORI/nintendo-switch-joy-con-rat-2-pakke
+        amazon: https://amzn.to/2zYtsgY
     - title: Headphone hanger
       bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
@@ -51,7 +58,7 @@ gt250:
         amazon: https://amzn.to/2zZHI9o
     - title: "The Legend Of Zelda: Breath of the Wild"
       image: https://dustinweb.azureedge.net/image/245454/960/720/nintendo-the-legend-of-zelda-breath-of-the-wild-nintendo-switch.png
-      price: "479"
+      price: "449"
       link:
         dustinhome: https://www.dustinhome.dk/product/5011007902/the-legend-of-zelda-breath-of-the-wild
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWILEGBREWILD/the-legend-of-zelda-breath-of-the-wild-switch
