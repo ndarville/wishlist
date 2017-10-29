@@ -47,18 +47,21 @@ gt250:
       price: "379"
       link:
         dustinhome: https://www.dustinhome.dk/product/5011032464/super-mario-odyssey
+        elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOODYSS/super-mario-odyssey-switch
         amazon: https://amzn.to/2zZHI9o
     - title: "The Legend Of Zelda: Breath of the Wild"
       image: https://dustinweb.azureedge.net/image/245454/960/720/nintendo-the-legend-of-zelda-breath-of-the-wild-nintendo-switch.png
       price: "479"
       link:
         dustinhome: https://www.dustinhome.dk/product/5011007902/the-legend-of-zelda-breath-of-the-wild
+        elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWILEGBREWILD/the-legend-of-zelda-breath-of-the-wild-switch
         amazon: https://amzn.to/2xxWWAK
     - title: "Mario Kart 8 Deluxe"
       image: https://dustinweb.azureedge.net/image/251251/960/720/nintendo-mario-kart-8-deluxe-nintendo-switch.png
       price: "499"
       link:
         dustinhome: https://www.dustinhome.dk/product/5011012276/mario-kart-8-deluxe
+        elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOKADE/mario-kart-8-deluxe-switch
         amazon: https://amzn.to/2z09qVq
 # >500
 gt500:
@@ -89,11 +92,12 @@ gt1000:
       hidden: true
       link:
         wirecutter: http://thewirecutter.com/reviews/best-receiver
-    - title: Nintendo Switch
+    - title: Nintendo Switch (red-blue version)
       image: https://dustinweb.azureedge.net/image/244601/960/720/nintendo-switch-with-neon-joy-con-32gb.jpg
       price: "2499"
       link:
         dustinhome: https://www.dustinhome.dk/product/5011007342/switch-with-neon-joy-con
+        elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/SWI32GBNEON/nintendo-switch-konsol-neonbla-og-neonrod-joy-con
         amazon: https://amzn.to/2zXQrZy
 
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
