@@ -21,25 +21,25 @@ lt250:
     - title: Headphone hanger
       bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
-      price: "200"
+      price: "199"
       link:
         amazon: https://amzn.to/2fEatkg
 # >250
 gt250:
     - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
       image: https://images-na.ssl-images-amazon.com/images/I/41TzErYBNWL._SX331_BO1,204,203,200_.jpg
-      price: "250"
+      price: "249"
       link:
         amazon: https://amzn.to/2jgvvXQ
         book_depository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
         dansk_butik: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
     - title: Boxing gloves
       hidden: true
-      price: "250"
+      price: "249"
     - title: Samsung Slim DVD writer (red)
       bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
-      price: "300"
+      price: "299"
       link:
         dansk_butik: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
         amazon: https://amzn.to/2g5XciP
@@ -75,7 +75,7 @@ gt500:
   - title: "The Grammar of Graphics"
     hidden: true
     image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4419/9781441920331.jpg
-    price: "550"
+    price: "549"
     link:
         amazon: https://amzn.to/2qfO1Dn
         book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
@@ -101,7 +101,7 @@ gt1000:
         wirecutter: http://thewirecutter.com/reviews/best-receiver
     - title: Nintendo Switch (red-blue version)
       image: https://dustinweb.azureedge.net/image/244601/960/720/nintendo-switch-with-neon-joy-con-32gb.jpg
-      price: "2499"
+      price: "2,499"
       link:
         dustinhome: https://www.dustinhome.dk/product/5011007342/switch-with-neon-joy-con
         elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/SWI32GBNEON/nintendo-switch-konsol-neonbla-og-neonrod-joy-con
