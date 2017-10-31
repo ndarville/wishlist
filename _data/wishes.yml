@@ -24,6 +24,12 @@ lt250:
       price: "199"
       link:
         amazon: https://amzn.to/2fEatkg
+    - title: Sideclick Universal Remote Attachment for Apple 4K
+      hidden: true
+      image: https://cdn.shopify.com/s/files/1/1184/8816/products/01_Web_Apple_G4_large.jpg?v=1485749267
+      price: "199"
+      link:
+        american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
 # >250
 gt250:
     - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
@@ -99,6 +105,12 @@ gt1000:
       hidden: true
       link:
         wirecutter: http://thewirecutter.com/reviews/best-receiver
+    - title: Apple TV 4K (32GB)
+      hidden: true
+      image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_sharpen=0&amp;amp;resMode=bicub&amp;amp;op_usm=0.5,0.5,0,0&amp;amp;iccEmbed=0&amp;amp;layer=comp&amp;amp;.v=1504814112595
+      price: "1,499"
+      link:
+        apple: https://www.apple.com/dk/shop/buy-tv/apple-tv-4k/32-gb
     - title: Nintendo Switch (red-blue version)
       image: https://dustinweb.azureedge.net/image/244601/960/720/nintendo-switch-with-neon-joy-con-32gb.jpg
       price: "2,499"
