@@ -84,6 +84,12 @@ gt250:
         amazon: https://amzn.to/2z09qVq
 # >500
 gt500:
+  - title: "Dex SteelSeries mouse mat"
+    hidden: true
+    image: https://tubby.scene7.com/is/image/tubby/SSDEX_1?$prod_all4one$
+    price: "379"
+    link:
+      elgiganten: https://www.elgiganten.dk/product/gaming/andet-gaming-udstyr-og-gadgets/SSDEX/steelseries-dex-gaming-musematte
   - title: "The Grammar of Graphics"
     hidden: true
     image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4419/9781441920331.jpg
@@ -111,6 +117,8 @@ gt1000:
       hidden: true
       link:
         wirecutter: http://thewirecutter.com/reviews/best-receiver
+    - title: Canon CanoScan Lide 220
+      hidden: true
     - title: Apple TV 4K (32GB)
       hidden: true
       image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_sharpen=0&amp;amp;resMode=bicub&amp;amp;op_usm=0.5,0.5,0,0&amp;amp;iccEmbed=0&amp;amp;layer=comp&amp;amp;.v=1504814112595
