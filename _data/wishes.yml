@@ -61,6 +61,12 @@ gt250:
         purchase: http://www.parliamentbook.com/book
     - title: HDMI audio extractor
       bought: true
+    - title: Ink & Paint---The Women Of Walt Disney's Animation (Hardback)
+      price: "349"
+      image: https://images-na.ssl-images-amazon.com/images/I/51jpW16aIaL._SX374_BO1,204,203,200_.jpg
+      link:
+        saxo: https://www.saxo.com/dk/ink-paint_mindy-johnson_hardback_9781484727812
+        amazon: https://amzn.to/2i4GmpC
     - title: Super Mario Odyssey
       image: https://dustinweb.azureedge.net/image/278060/960/720/nintendo-super-mario-odyssey-nintendo-switch.jpg
       price: "379"
