@@ -56,6 +56,35 @@ If you’ve received one of your wishes, you can either delete them or mark them
 
 Be aware that this is basically just the repo for my own wishlist, so don’t expect to be able to do a `git pull` or `git fetch` without something breaking. Besides, the wishlist is pretty much fine in its current state for the most part.
 
+Command-line tricks
+-------------------
+
+**NB:** There are a billion different programs with the unoriginal name `yq`. Make sure you don’t conflate them.
+
+### Show all wishes ###
+
+#### [`mikefarah/yq`][mikefarah-yq] ####
+
+
+```sh
+brew install yq # or go get github.com/mikefarah/yq or install binary
+yq r _data/wishes.yml *[*].title
+
+You can’t perform any granular operations, but you could convert the YAML to JSON and use a tool like [jq][] with a larger feature set.
+
+#### [`kislyuk/yq`][kislyuk-yq] ####
+
+This is a [jq][] wrapper in Python that is *still* maintained. This is the best YAML tool out there, but I included `mikefarah/yq` for comparison and as a reminder of all the similarly named `yq` out there.
+
+```sh
+pip install yq
+yq .[][].title _data/wishes.yml
+```
+
+And similarly, `.[][].price` and so on.
+
+Because `kislyuk/yq` wraps jq, you also get syntax highlighting.
+
 Can I use a custom domain name?
 -------------------------------
 [You sure can][custom-github-pages], but this is for what you might call technical people.
@@ -102,6 +131,9 @@ Known issues
 [registration page]: https://github.com/join
 [e-mail settings]: https://github.com/settings/emails
 [create a repo]: https://github.com/new
+[mikefarah-yq]: http://mikefarah.github.io/yq/read/
+[kislyuk-yq]: https://github.com/kislyuk/yq
+[jq]: https://stedolan.github.io/jq/
 [custom-github-pages]: https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
 [commit history]: https://github.com/ndarville/wishlist/commits/master
 [workfolio]: https://github.com/ndarville/workfolio
