@@ -126,6 +126,7 @@ gt1000:
       link:
         apple: https://www.apple.com/dk/shop/buy-tv/apple-tv-4k/32-gb
     - title: Nintendo Switch (red-blue version)
+      bought: true
       image: https://dustinweb.azureedge.net/image/244601/960/720/nintendo-switch-with-neon-joy-con-32gb.jpg
       price: "2,499"
       link:
