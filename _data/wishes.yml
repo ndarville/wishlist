@@ -11,13 +11,6 @@ lt250:
       price: "100"
       link:
         amazon: https://amzn.to/2kjmg9M
-    - title: Nintendo Switch Joy-Con Wheel
-      image: https://dustinweb.azureedge.net/image/251274/960/720/nintendo-switch-joy-con-wheel-pair-sort.jpg
-      price: "149"
-      link:
-        dustinhome: https://www.dustinhome.dk/product/5011012277/switch-joy-con-wheel-pair
-        elgiganten: https://www.elgiganten.dk/product/gaming/tilbehor-til-spillekonsoller/SWIWHEELDPORI/nintendo-switch-joy-con-rat-2-pakke
-        amazon: https://amzn.to/2zYtsgY
     - title: Headphone hanger
       bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
@@ -32,6 +25,7 @@ lt250:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
     - title: Edda (Lembek & Stavnem)
+      bought: true
       image: https://imgcdn.saxo.com/_9788702042221/500x0
       price: "199"
       link:
@@ -59,8 +53,6 @@ gt250:
       hidden: true
       link:
         purchase: http://www.parliamentbook.com/book
-    - title: HDMI audio extractor
-      bought: true
     - title: Ink & Paint---The Women Of Walt Disney's Animation (Hardback)
       price: "349"
       image: https://images-na.ssl-images-amazon.com/images/I/51jpW16aIaL._SX374_BO1,204,203,200_.jpg
@@ -68,6 +60,7 @@ gt250:
         saxo: https://www.saxo.com/dk/ink-paint_mindy-johnson_hardback_9781484727812
         amazon: https://amzn.to/2i4GmpC
     - title: Super Mario Odyssey
+      bought: true
       image: https://dustinweb.azureedge.net/image/278060/960/720/nintendo-super-mario-odyssey-nintendo-switch.jpg
       price: "379"
       link:
@@ -75,6 +68,7 @@ gt250:
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOODYSS/super-mario-odyssey-switch
         amazon: https://amzn.to/2zZHI9o
     - title: "The Legend Of Zelda: Breath of the Wild"
+      bought: true
       image: https://dustinweb.azureedge.net/image/245454/960/720/nintendo-the-legend-of-zelda-breath-of-the-wild-nintendo-switch.png
       price: "449"
       link:
@@ -119,7 +113,7 @@ gt500:
         dustinhome: https://www.dustinhome.dk/product/5011001332/firecuda-sshd
 # >1000
 gt1000:
-    - title: Receiver
+    - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
       hidden: true
       link:
         wirecutter: http://thewirecutter.com/reviews/best-receiver
