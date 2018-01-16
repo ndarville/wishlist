@@ -2,9 +2,6 @@
 layout: default
 title: Wishlist (Bought)
 ---
-* TOC
-{:toc}
-
 {% for range in site.data.wishes %}
 ### {{ range[0] | replace:"lt","<" | replace:"gt",">" }} ###
 
