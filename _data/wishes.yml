@@ -7,7 +7,6 @@ lt250:
       bought: true
     - title: PlayStation Store gift card
       bought: true
-      image: https://images-na.ssl-images-amazon.com/images/I/81f1SFPg3ML._SL1500_.jpg
       price: "100"
       link:
         amazon: https://amzn.to/2kjmg9M
