@@ -42,6 +42,17 @@ gt250:
     - title: Boxing gloves
       hidden: true
       price: "249"
+    - title: Ocarina of Time Link Amiibo
+      image: https://images-na.ssl-images-amazon.com/images/I/71dG-afhpZL._SL1080_.jpg
+      price: "249"
+      link:
+        amazon: https://amzn.to/2B6pemP
+    - title: Amiibo PowerSaves---Action Replay
+      image: https://img-cache.coolshop.com/ad6195ad-9a35-4606-89eb-e7ce9c04b59c/amiibo-powersaves-action-replay.jpeg
+      price: "249"
+      link:
+        coolshop: https://www.coolshop.dk/produkt/amiibo-powersaves-action-replay/AF8K4Q/
+        gucca: https://www.gucca.dk/amiibo-powersaves-action-replay-p338478
     - title: Samsung Slim DVD writer (red)
       bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
