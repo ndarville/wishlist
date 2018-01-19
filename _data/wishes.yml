@@ -85,13 +85,15 @@ gt250:
         dustinhome: https://www.dustinhome.dk/product/5011007902/the-legend-of-zelda-breath-of-the-wild
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWILEGBREWILD/the-legend-of-zelda-breath-of-the-wild-switch
         amazon: https://amzn.to/2xxWWAK
-    - title: "Mario Kart 8 Deluxe"
+    - title: Mario Kart 8 Deluxe
       image: https://images-na.ssl-images-amazon.com/images/I/91BphPXVYVL._SL1500_.jpg
       price: "499"
       link:
         dustinhome: https://www.dustinhome.dk/product/5011012276/mario-kart-8-deluxe
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOKADE/mario-kart-8-deluxe-switch
         amazon: https://amzn.to/2z09qVq
+    - title: "Mario Kart 9"
+      hidden: true
 # >500
 gt500:
   - title: "Dex SteelSeries mouse mat"
@@ -113,6 +115,14 @@ gt500:
     price: "599"
     link:
         saxo: https://www.saxo.com/dk/owning-memory_jeannette-a-bastian_hardback_9780313320088
+  - title: Nintendo LABO---Robot Kit
+    hidden: true
+  - title: Nintendo Switch Pro Controller---Xenoblade Chronicles 2 Edition
+    price: "599"
+    image: https://images-na.ssl-images-amazon.com/images/I/71wl4NrvLGL._SL1500_.jpg
+    link:
+        dustinhome: https://www.dustinhome.dk/product/5011055654/switch-pro-controller---xenoblade-chronicles-2-edition
+        amazon: https://amzn.to/2Dr2Nz1
   - title: Subwoofer
     hidden: true
   - title: "Seagate Firecuda SSHD (2TB)"
@@ -121,6 +131,8 @@ gt500:
     price: "799"
     link:
         dustinhome: https://www.dustinhome.dk/product/5011001332/firecuda-sshd
+  - title: Coloured trousers
+  - title: Animation artbooks (import)
 # >1000
 gt1000:
     - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
