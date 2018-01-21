@@ -114,6 +114,8 @@ gt500:
     link:
         amazon: https://amzn.to/2qfO1Dn
         book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
+  - title: Animation artbooks (import)
+    price: "559"
   - title: "Owning Memory"
     hidden: true
     image: https://imgcdn.saxo.com/_9780313320088/500x0
@@ -137,7 +139,6 @@ gt500:
     link:
         dustinhome: https://www.dustinhome.dk/product/5011001332/firecuda-sshd
   - title: Coloured trousers
-  - title: Animation artbooks (import)
 # >1000
 gt1000:
     - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
