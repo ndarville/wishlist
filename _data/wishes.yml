@@ -96,7 +96,7 @@ gt250:
       hidden: true
 # >500
 gt500:
-  -title: Learn C the Hard Way
+  - title: Learn C the Hard Way
     image: "https://images-na.ssl-images-amazon.com/images/I/518yVM9PmGL._SX382_BO1,204,203,200_.jpg"
     price: "249"
     link:
