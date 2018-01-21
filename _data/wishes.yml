@@ -96,6 +96,11 @@ gt250:
       hidden: true
 # >500
 gt500:
+  -title: Learn C the Hard Way
+    image: "https://images-na.ssl-images-amazon.com/images/I/518yVM9PmGL._SX382_BO1,204,203,200_.jpg"
+    price: "249"
+    link:
+        amazon: https://amzn.to/2mXet1X
   - title: "Dex SteelSeries mouse mat"
     hidden: true
     image: https://tubby.scene7.com/is/image/tubby/SSDEX_1?$prod_all4one$
