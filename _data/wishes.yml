@@ -10,6 +10,11 @@ lt250:
       price: "100"
       link:
         amazon: https://amzn.to/2kjmg9M
+    - title: UGREEN Ethernet adapter
+      image: https://images-na.ssl-images-amazon.com/images/I/61qPPxpOSJL._SL1001_.jpg
+      price: "149"
+      link:
+        amazon: https://amzn.to/2DBshK2
     - title: Headphone hanger
       bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
