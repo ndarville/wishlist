@@ -118,6 +118,7 @@ Credits
 TODO
 ----
 * RSS?
+* Basic print CSS
 
 Known issues
 ------------
