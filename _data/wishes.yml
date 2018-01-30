@@ -67,12 +67,12 @@ gt250:
       hidden: true
       link:
         purchase: http://www.parliamentbook.com/book
-  - title: "Dex SteelSeries mouse mat"
-    hidden: true
-    image: https://tubby.scene7.com/is/image/tubby/SSDEX_1?$prod_all4one$
-    price: "379"
-    link:
-      elgiganten: https://www.elgiganten.dk/product/gaming/andet-gaming-udstyr-og-gadgets/SSDEX/steelseries-dex-gaming-musematte
+    - title: "Dex SteelSeries mouse mat"
+      hidden: true
+      image: https://tubby.scene7.com/is/image/tubby/SSDEX_1?$prod_all4one$
+      price: "379"
+      link:
+        elgiganten: https://www.elgiganten.dk/product/gaming/andet-gaming-udstyr-og-gadgets/SSDEX/steelseries-dex-gaming-musematte
     - title: Ink & Paint---The Women Of Walt Disney's Animation (Hardback)
       price: "349"
       image: https://images-na.ssl-images-amazon.com/images/I/51jpW16aIaL._SX374_BO1,204,203,200_.jpg
