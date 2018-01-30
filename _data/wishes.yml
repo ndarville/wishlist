@@ -33,12 +33,6 @@ lt250:
       link:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
-    - title: Edda (Lembek & Stavnem)
-      bought: true
-      image: https://imgcdn.saxo.com/_9788702042221/500x0
-      price: "199"
-      link:
-        saxo: https://www.saxo.com/dk/edda_snorri-sturluson_indbundet_9788702042221
 # >250
 gt250:
     - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
@@ -73,6 +67,12 @@ gt250:
       hidden: true
       link:
         purchase: http://www.parliamentbook.com/book
+  - title: "Dex SteelSeries mouse mat"
+    hidden: true
+    image: https://tubby.scene7.com/is/image/tubby/SSDEX_1?$prod_all4one$
+    price: "379"
+    link:
+      elgiganten: https://www.elgiganten.dk/product/gaming/andet-gaming-udstyr-og-gadgets/SSDEX/steelseries-dex-gaming-musematte
     - title: Ink & Paint---The Women Of Walt Disney's Animation (Hardback)
       price: "349"
       image: https://images-na.ssl-images-amazon.com/images/I/51jpW16aIaL._SX374_BO1,204,203,200_.jpg
@@ -106,17 +106,6 @@ gt250:
       hidden: true
 # >500
 gt500:
-  - title: Learn C the Hard Way
-    image: "https://images-na.ssl-images-amazon.com/images/I/518yVM9PmGL._SX382_BO1,204,203,200_.jpg"
-    price: "249"
-    link:
-        amazon: https://amzn.to/2mXet1X
-  - title: "Dex SteelSeries mouse mat"
-    hidden: true
-    image: https://tubby.scene7.com/is/image/tubby/SSDEX_1?$prod_all4one$
-    price: "379"
-    link:
-      elgiganten: https://www.elgiganten.dk/product/gaming/andet-gaming-udstyr-og-gadgets/SSDEX/steelseries-dex-gaming-musematte
   - title: "The Grammar of Graphics"
     hidden: true
     image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4419/9781441920331.jpg
