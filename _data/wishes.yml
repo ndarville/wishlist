@@ -5,11 +5,6 @@ lt250:
     - title: Bookmarks
     - title: Underpants
       bought: true
-    - title: PlayStation Store gift card
-      bought: true
-      price: "100"
-      link:
-        amazon: https://amzn.to/2kjmg9M
     - title: UGREEN Ethernet adapter
       bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/61qPPxpOSJL._SL1001_.jpg
@@ -34,7 +29,7 @@ lt250:
       price: "199"
       link:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
-    - title: PlayStation Gift Card
+    - title: PlayStation Gift Cards
       image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
       price: "199"
       link:
@@ -94,7 +89,7 @@ gt250:
         dustinhome: https://www.dustinhome.dk/product/5011032464/super-mario-odyssey
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOODYSS/super-mario-odyssey-switch
         amazon: https://amzn.to/2zZHI9o
-    - title: PlayStation Gift Card
+    - title: PlayStation Gift Cards
       image: https://tubby.scene7.com/is/image/tubby/PSN400DKK?$fullsize$
       price: "399"
       link:
