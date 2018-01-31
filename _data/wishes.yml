@@ -34,6 +34,11 @@ lt250:
       price: "199"
       link:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
+    - title: PlayStation Gift Card
+      image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
+      price: "199"
+      link:
+        elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
 # >250
 gt250:
@@ -89,6 +94,11 @@ gt250:
         dustinhome: https://www.dustinhome.dk/product/5011032464/super-mario-odyssey
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOODYSS/super-mario-odyssey-switch
         amazon: https://amzn.to/2zZHI9o
+    - title: PlayStation Gift Card
+      image: https://tubby.scene7.com/is/image/tubby/PSN400DKK?$fullsize$
+      price: "399"
+      link:
+        elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN400DKK/playstation-network-live-card-400-kr
     - title: "The Legend Of Zelda: Breath of the Wild"
       bought: true
       image: https://dustinweb.azureedge.net/image/245454/960/720/nintendo-the-legend-of-zelda-breath-of-the-wild-nintendo-switch.png
