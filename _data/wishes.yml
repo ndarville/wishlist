@@ -11,11 +11,13 @@ lt250:
       link:
         amazon: https://amzn.to/2kjmg9M
     - title: UGREEN Ethernet adapter
+      bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/61qPPxpOSJL._SL1001_.jpg
       price: "149"
       link:
         amazon: https://amzn.to/2DBshK2
     - title: Lamicall Nintendo Switch Stand
+      bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/61%2B1ZdLqXmL._SL1300_.jpg
       price: "149"
       link:
