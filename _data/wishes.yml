@@ -153,6 +153,12 @@ gt1000:
         wirecutter: http://thewirecutter.com/reviews/best-receiver
     - title: Canon CanoScan Lide 220
       hidden: true
+    - title: Elgato Stream Deck
+      hidden: true
+      image: https://dustinweb.azureedge.net/image/314717/960/720/elgato-stream-deck.jpg
+      price: "1099"
+      link:
+        elgiganten: https://www.dustinhome.dk/product/5011060273/stream-deck
     - title: Apple TV 4K (32GB)
       hidden: true
       image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_sharpen=0&amp;amp;resMode=bicub&amp;amp;op_usm=0.5,0.5,0,0&amp;amp;iccEmbed=0&amp;amp;layer=comp&amp;amp;.v=1504814112595
