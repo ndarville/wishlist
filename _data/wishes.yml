@@ -137,6 +137,11 @@ gt500:
     link:
         dustinhome: https://www.dustinhome.dk/product/5011055654/switch-pro-controller---xenoblade-chronicles-2-edition
         amazon: https://amzn.to/2Dr2Nz1
+  - title: Apple Pencil
+    price: "769"
+    image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/M/K0/MK0C2/MK0C2_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=DublD1
+    link:
+        apple: https://www.apple.com/dk/shop/product/MK0C2/apple-pencil?fnode=37
   - title: Subwoofer
     hidden: true
   - title: "Seagate Firecuda SSHD (2TB)"
