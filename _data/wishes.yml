@@ -110,6 +110,7 @@ gt250:
         dustinhome: https://www.dustinhome.dk/product/5011012276/mario-kart-8-deluxe
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOKADE/mario-kart-8-deluxe-switch
         amazon: https://amzn.to/2z09qVq
+    - title: Precise iPad stylus that doesn't scratch the screen
 # >500
 gt500:
   - title: The Grammar of Graphics
@@ -136,6 +137,7 @@ gt500:
         dustinhome: https://www.dustinhome.dk/product/5011055654/switch-pro-controller---xenoblade-chronicles-2-edition
         amazon: https://amzn.to/2Dr2Nz1
   - title: Apple Pencil
+    hidden: true
     price: "769"
     image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/M/K0/MK0C2/MK0C2_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=DublD1
     link:
