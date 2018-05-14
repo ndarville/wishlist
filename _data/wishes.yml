@@ -169,6 +169,7 @@ gt1000:
       price: "1,499"
       link:
         apple: https://www.apple.com/dk/shop/buy-tv/apple-tv-4k/32-gb
+gt2500:
     - title: Nintendo Switch (red-blue version)
       bought: true
       image: https://dustinweb.azureedge.net/image/244601/960/720/nintendo-switch-with-neon-joy-con-32gb.jpg
@@ -177,7 +178,12 @@ gt1000:
         dustinhome: https://www.dustinhome.dk/product/5011007342/switch-with-neon-joy-con
         elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/SWI32GBNEON/nintendo-switch-konsol-neonbla-og-neonrod-joy-con
         amazon: https://amzn.to/2zXQrZy
-    - title: New computer (April)
+    - title: Synology DiskStation DS918+
+      hidden: true
+      image: https://images-na.ssl-images-amazon.com/images/I/81pRAZPTI7L._SL1500_.jpg
+      price: "3,999"
+      link:
+        pricerunner: https://www.pricerunner.dk/pl/744-4293290/NAS-Server/Synology-DiskStation-DS918-Sammenlign-Priser
 
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
 #
