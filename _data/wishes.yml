@@ -112,7 +112,7 @@ gt250:
         amazon: https://amzn.to/2z09qVq
 # >500
 gt500:
-  - title: "The Grammar of Graphics"
+  - title: The Grammar of Graphics
     hidden: true
     image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4419/9781441920331.jpg
     price: "549"
@@ -121,7 +121,7 @@ gt500:
         book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
   - title: Animation artbooks (import)
     price: "559"
-  - title: "Owning Memory"
+  - title: Owning Memory
     hidden: true
     image: https://imgcdn.saxo.com/_9780313320088/500x0
     price: "599"
