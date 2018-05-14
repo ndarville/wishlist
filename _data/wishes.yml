@@ -110,8 +110,6 @@ gt250:
         dustinhome: https://www.dustinhome.dk/product/5011012276/mario-kart-8-deluxe
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOKADE/mario-kart-8-deluxe-switch
         amazon: https://amzn.to/2z09qVq
-    - title: "Mario Kart 9"
-      hidden: true
 # >500
 gt500:
   - title: "The Grammar of Graphics"
