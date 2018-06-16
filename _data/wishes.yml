@@ -34,6 +34,7 @@ lt250:
       price: "199"
       link:
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card
+    - title: Coffee mugs and coasters
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
 # >250
 gt250:
@@ -120,8 +121,6 @@ gt500:
     link:
         amazon: https://amzn.to/2qfO1Dn
         book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
-  - title: Animation artbooks (import)
-    price: "559"
   - title: Owning Memory
     hidden: true
     image: https://imgcdn.saxo.com/_9780313320088/500x0
