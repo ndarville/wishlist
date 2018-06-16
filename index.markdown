@@ -6,7 +6,7 @@ enable_charities: true
 * TOC
 {:toc}
 
-{% if page.enable_charities == true %}
+{% if page.enable_charities == false %}
 ### Charities ###
 {% for c in site.data.charities %}
 
