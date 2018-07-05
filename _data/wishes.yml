@@ -136,6 +136,10 @@ gt500:
     link:
         dustinhome: https://www.dustinhome.dk/product/5011055654/switch-pro-controller---xenoblade-chronicles-2-edition
         amazon: https://amzn.to/2Dr2Nz1
+  - title: Black Noctua NH-D15(S/Q) AM4 18Q4/19Q1
+    price: "699"
+    link:
+        noctua_press: https://noctua.at/en/noctua-at-computex-2018
   - title: Apple Pencil
     hidden: true
     price: "769"
