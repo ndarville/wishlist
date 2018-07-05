@@ -157,14 +157,9 @@ gt500:
   - title: Coloured trousers
 # >1000
 gt1000:
-    - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
-      hidden: true
-      link:
-        wirecutter: http://thewirecutter.com/reviews/best-receiver
     - title: Canon CanoScan Lide 220
       hidden: true
     - title: Elgato Stream Deck
-      hidden: true
       image: https://dustinweb.azureedge.net/image/314717/960/720/elgato-stream-deck.jpg
       price: "1099"
       link:
@@ -190,6 +185,12 @@ gt2500:
       price: "3,999"
       link:
         pricerunner: https://www.pricerunner.dk/pl/744-4293290/NAS-Server/Synology-DiskStation-DS918-Sammenlign-Priser
+    - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
+      price: "3,999"
+      hidden: true
+      link:
+        wirecutter: http://thewirecutter.com/reviews/best-receiver
+        flatpanels: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1530781197
 
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
 #
