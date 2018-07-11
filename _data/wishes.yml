@@ -36,14 +36,27 @@ lt250:
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card
     - title: Coffee mugs and coasters
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
-# >250
-gt250:
+    - title: "Codes of the Underworld: How Criminals Communicate"
+      image: https://images-na.ssl-images-amazon.com/images/I/51lfsi-ZzQL._SX333_BO1,204,203,200_.jpg
+      price: "199"
+      link:
+        saxo: https://www.saxo.com/dk/codes-of-the-underworld_diego-gambetta_paperback_9780691152479
+        book_depository: https://www.bookdepository.com/Codes-of-the-Underworld-Diego-Gambetta/9780691152479
+        amazon: https://amzn.to/2zioXln
     - title: PowerSaves for Amiibo
       bought: true
       image: https://www.codejunkies.com/images/products/ef001200/pdt-amiibo-1.jpg
       price: "199"
       link:
         manufacturer: https://www.codejunkies.com/Products/PowerSaves-for-Amiibo__EF001200.aspx
+# >250
+gt250:
+    - title: Inside Black Mirror
+      image: https://www.penguin.co.uk/content/dam/catalogue/pim/editions/140/9781529102581/cover.jpg.rendition.460.707.png
+      price: "249"
+      link:
+        book_depository: https://www.bookdepository.com/Inside-Black-Mirror-Jason-Arnopp/9781529102581
+        saxo: https://www.saxo.com/dk/inside-black-mirror_charlie-brooker_hardback_9781984823489
     - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
       image: https://images-na.ssl-images-amazon.com/images/I/41TzErYBNWL._SX331_BO1,204,203,200_.jpg
       price: "249"
