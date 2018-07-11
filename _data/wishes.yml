@@ -64,6 +64,11 @@ gt250:
         amazon: https://amzn.to/2jgvvXQ
         book_depository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
         dansk_butik: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
+    - title: Coffee mug
+      image: https://images-na.ssl-images-amazon.com/images/I/81zPqtb7uvL._SL1500_.jpg
+      price: "249"
+      link:
+        amazon: https://amzn.to/2Nzb05w
     - title: Boxing gloves
       hidden: true
       price: "249"
