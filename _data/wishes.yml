@@ -137,6 +137,7 @@ gt250:
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOKADE/mario-kart-8-deluxe-switch
         amazon: https://amzn.to/2z09qVq
     - title: Precise iPad stylus that doesn't scratch the screen
+      hidden: true
 # >500
 gt500:
   - title: The Grammar of Graphics
