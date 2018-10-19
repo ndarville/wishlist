@@ -5,6 +5,11 @@ lt250:
     - title: Bookmarks
     - title: Underpants
       bought: true
+    - title: Stool
+      image: https://www.ikea.com/dk/da/images/products/frosta-taburet__20345_PE105506_S4.jpg
+      price: "49"
+      link:
+        ikea: https://www.ikea.com/dk/da/catalog/products/24286205/
     - title: UGREEN Ethernet adapter
       bought: true
       image: https://images-na.ssl-images-amazon.com/images/I/61qPPxpOSJL._SL1001_.jpg
@@ -49,6 +54,8 @@ lt250:
       price: "199"
       link:
         manufacturer: https://www.codejunkies.com/Products/PowerSaves-for-Amiibo__EF001200.aspx
+    - title: Dekorative bordskånere til glas og tallerken
+      price: "199"
 # >250
 gt250:
     - title: Inside Black Mirror
