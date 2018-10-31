@@ -69,6 +69,7 @@ Command-line tricks
 ```sh
 brew install yq # or go get github.com/mikefarah/yq or install binary
 yq r _data/wishes.yml *[*].title
+```
 
 You can’t perform any granular operations, but you could convert the YAML to JSON and use a tool like [jq][] with a larger feature set.
 
