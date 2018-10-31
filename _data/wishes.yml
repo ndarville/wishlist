@@ -156,6 +156,7 @@ gt1000:
     - title: Canon CanoScan Lide 220
       hidden: true
     - title: Elgato Stream Deck
+      hidden: true
       image: https://dustinweb.azureedge.net/image/314717/960/720/elgato-stream-deck.jpg
       price: "1,099"
       link:
