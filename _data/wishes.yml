@@ -45,7 +45,7 @@ lt250:
       image: https://images-na.ssl-images-amazon.com/images/I/51lfsi-ZzQL._SX333_BO1,204,203,200_.jpg
       price: "199"
       link:
-        saxo: https://www.saxo.com/dk/codes-of-the-underworld_diego-gambetta_paperback_9780691152479
+        dansk_butik: https://www.saxo.com/dk/codes-of-the-underworld_diego-gambetta_paperback_9780691152479
         book_depository: https://www.bookdepository.com/Codes-of-the-Underworld-Diego-Gambetta/9780691152479
         amazon: https://amzn.to/2zioXln
 # >250
