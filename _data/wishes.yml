@@ -124,6 +124,12 @@ gt500:
       link:
         dansk_butik: https://www.dustinhome.dk/product/5011055654/switch-pro-controller---xenoblade-chronicles-2-edition
         amazon: https://amzn.to/2Dr2Nz1
+    - title: The Art of Metal Gear Solid I-IV
+      image: https://d2lzb5v10mb0lj.cloudfront.net/covers/300/30/3001445.jpg
+      price: "599"
+      link:
+        dansk_butik: https://www.saxo.com/dk/the-art-of-metal-gear-solid-i-iv_konami_hardback_9781506705811
+        book_depository: https://www.bookdepository.com/Art-Of-Metal-Gear-Solid-I-iv-Y-Shinkawa/9781506705811
     - title: Black Noctua NH-D15(S/Q) AM4 19Q1/2
       hidden: true
       price: "699"
