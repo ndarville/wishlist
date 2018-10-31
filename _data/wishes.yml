@@ -16,12 +16,12 @@ lt250:
       price: "149"
       link:
         amazon: https://amzn.to/2DBshK2
-    - title: Lamicall Nintendo Switch Stand
-      bought: true
-      image: https://images-na.ssl-images-amazon.com/images/I/61%2B1ZdLqXmL._SL1300_.jpg
+    - title: How to Be Right
+      image: https://www.penguin.co.uk/content/dam/prh/books/111/1116808/9780753553091.jpg.transform/PRHDesktopWide_small/image.jpg
       price: "149"
       link:
-        amazon: https://amzn.to/2nfLOEE
+        dansk_butik: https://www.saxo.com/dk/how-to-be-right_james-obrien_hardback_9780753553091
+        book_depository: https://www.bookdepository.com/How-Be-Right-James-OBrien/9780753553091
     - title: Headphone hanger
       bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
@@ -48,29 +48,28 @@ lt250:
         saxo: https://www.saxo.com/dk/codes-of-the-underworld_diego-gambetta_paperback_9780691152479
         book_depository: https://www.bookdepository.com/Codes-of-the-Underworld-Diego-Gambetta/9780691152479
         amazon: https://amzn.to/2zioXln
-    - title: PowerSaves for Amiibo
-      bought: true
-      image: https://www.codejunkies.com/images/products/ef001200/pdt-amiibo-1.jpg
-      price: "199"
-      link:
-        manufacturer: https://www.codejunkies.com/Products/PowerSaves-for-Amiibo__EF001200.aspx
-    - title: Dekorative bordskånere til glas og tallerken
-      price: "199"
 # >250
 gt250:
+    - title: "Spider-Man: Into the Spider-Verse: The Art of the Movie"
+      image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/7856/9781785659461.jpg
+      price: "249"
+      link:
+          dansk_butik: https://www.saxo.com/dk/spider-man-into-the-spider-verse_ramin-zahed_hardback_9781785659461
+          book_depository: https://www.bookdepository.com/Spider-Man-Into-the-Spider-Verse-Ramin-Zahed/9781785659461
     - title: Inside Black Mirror
       image: https://www.penguin.co.uk/content/dam/catalogue/pim/editions/140/9781529102581/cover.jpg.rendition.460.707.png
       price: "249"
       link:
+        dansk_butik: https://www.saxo.com/dk/inside-black-mirror_charlie-brooker_hardback_9781984823489
         book_depository: https://www.bookdepository.com/Inside-Black-Mirror-Jason-Arnopp/9781529102581
-        saxo: https://www.saxo.com/dk/inside-black-mirror_charlie-brooker_hardback_9781984823489
     - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
+      hidden: true
       image: https://images-na.ssl-images-amazon.com/images/I/41TzErYBNWL._SX331_BO1,204,203,200_.jpg
       price: "249"
       link:
+        dansk_butik: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
         amazon: https://amzn.to/2jgvvXQ
         book_depository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
-        dansk_butik: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
     - title: Coffee mug
       image: https://images-na.ssl-images-amazon.com/images/I/81zPqtb7uvL._SL1500_.jpg
       price: "249"
@@ -91,52 +90,21 @@ gt250:
       link:
         dansk_butik: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
         amazon: https://amzn.to/2g5XciP
+    - title: iPad Air 2 Smart Cover (RED)
+      image: https://store.storeimages.cdn-apple.com/4667/as-images.apple.com/is/image/AppleInc/aos/published/images/M/R6/MR632/MR632?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1504640721601
+      price: "349"
+      link:
+         apple: https://www.apple.com/dk/shop/product/MR632ZM/A/smart-cover-til-ipad-productred?fnode=9a&fs=f%3Dipad6gen%26fh%3D4583%252B43dd
     - title: Parliament Book
       hidden: true
       link:
-        purchase: http://www.parliamentbook.com/book
-    - title: "Dex SteelSeries mouse mat"
-      hidden: true
-      image: https://tubby.scene7.com/is/image/tubby/SSDEX_1?$prod_all4one$
-      price: "379"
-      link:
-        elgiganten: https://www.elgiganten.dk/product/gaming/andet-gaming-udstyr-og-gadgets/SSDEX/steelseries-dex-gaming-musematte
-    - title: Ink & Paint---The Women Of Walt Disney's Animation (Hardback)
-      price: "349"
-      image: https://images-na.ssl-images-amazon.com/images/I/51jpW16aIaL._SX374_BO1,204,203,200_.jpg
-      link:
-        saxo: https://www.saxo.com/dk/ink-paint_mindy-johnson_hardback_9781484727812
-        amazon: https://amzn.to/2i4GmpC
-    - title: Super Mario Odyssey
-      bought: true
-      image: https://dustinweb.azureedge.net/image/278060/960/720/nintendo-super-mario-odyssey-nintendo-switch.jpg
-      price: "379"
-      link:
-        dustinhome: https://www.dustinhome.dk/product/5011032464/super-mario-odyssey
-        elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOODYSS/super-mario-odyssey-switch
-        amazon: https://amzn.to/2zZHI9o
+         purchase: http://www.parliamentbook.com/book
     - title: PlayStation Network Gift Cards
       image: https://tubby.scene7.com/is/image/tubby/PSN400DKK?$fullsize$
       price: "399"
       link:
-        elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN400DKK/playstation-network-live-card-400-kr
-    - title: "The Legend Of Zelda: Breath of the Wild"
-      bought: true
-      image: https://dustinweb.azureedge.net/image/245454/960/720/nintendo-the-legend-of-zelda-breath-of-the-wild-nintendo-switch.png
-      price: "449"
-      link:
-        dustinhome: https://www.dustinhome.dk/product/5011007902/the-legend-of-zelda-breath-of-the-wild
-        elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWILEGBREWILD/the-legend-of-zelda-breath-of-the-wild-switch
-        amazon: https://amzn.to/2xxWWAK
-    - title: Mario Kart 8 Deluxe
-      bought: true
-      image: https://images-na.ssl-images-amazon.com/images/I/91BphPXVYVL._SL1500_.jpg
-      price: "499"
-      link:
-        dustinhome: https://www.dustinhome.dk/product/5011012276/mario-kart-8-deluxe
-        elgiganten: https://www.elgiganten.dk/product/gaming/spil/nintendo-switch-spil/SWIMARIOKADE/mario-kart-8-deluxe-switch
-        amazon: https://amzn.to/2z09qVq
-    - title: Precise iPad stylus that doesn't scratch the screen
+          elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN400DKK/playstation-network-live-card-400-kr
+      - title: Precise iPad stylus that doesn't scratch the screen
       hidden: true
 # >500
 gt500:
@@ -145,14 +113,14 @@ gt500:
     image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4419/9781441920331.jpg
     price: "549"
     link:
-        amazon: https://amzn.to/2qfO1Dn
-        book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
+      amazon: https://amzn.to/2qfO1Dn
+      book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
   - title: Owning Memory
     hidden: true
     image: https://imgcdn.saxo.com/_9780313320088/500x0
     price: "599"
     link:
-        saxo: https://www.saxo.com/dk/owning-memory_jeannette-a-bastian_hardback_9780313320088
+      saxo: https://www.saxo.com/dk/owning-memory_jeannette-a-bastian_hardback_9780313320088
   - title: Nintendo LABO---Robot Kit
     hidden: true
   - title: Nintendo Switch Pro Controller---Xenoblade Chronicles 2 Edition
@@ -160,18 +128,20 @@ gt500:
     price: "599"
     image: https://images-na.ssl-images-amazon.com/images/I/71wl4NrvLGL._SL1500_.jpg
     link:
-        dustinhome: https://www.dustinhome.dk/product/5011055654/switch-pro-controller---xenoblade-chronicles-2-edition
-        amazon: https://amzn.to/2Dr2Nz1
-  - title: Black Noctua NH-D15(S/Q) AM4 18Q4/19Q1
+      dansk_butik: https://www.dustinhome.dk/product/5011055654/switch-pro-controller---xenoblade-chronicles-2-edition
+      amazon: https://amzn.to/2Dr2Nz1
+  - title: Black Noctua NH-D15(S/Q) AM4 19Q1/2
+    hidden: true
     price: "699"
     link:
-        noctua_press: https://noctua.at/en/noctua-at-computex-2018
+      noctua_press: https://noctua.at/en/noctua-at-computex-2018
+    # https://twitter.com/Noctua_at/status/1032728898373648386
   - title: Apple Pencil
     hidden: true
     price: "769"
     image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/M/K0/MK0C2/MK0C2_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=DublD1
     link:
-        apple: https://www.apple.com/dk/shop/product/MK0C2/apple-pencil?fnode=37
+      apple: https://www.apple.com/dk/shop/product/MK0C2/apple-pencil?fnode=37
   - title: Subwoofer
     hidden: true
   - title: "Seagate Firecuda SSHD (2TB)"
@@ -179,7 +149,7 @@ gt500:
     image: https://media.dustin.eu/image/236417/960/720/seagate-firecuda-sshd-2tb-sata-600-25.jpg
     price: "799"
     link:
-        dustinhome: https://www.dustinhome.dk/product/5011001332/firecuda-sshd
+      dustinhome: https://www.dustinhome.dk/product/5011001332/firecuda-sshd
   - title: Coloured trousers
 # >1000
 gt1000:
@@ -187,15 +157,19 @@ gt1000:
       hidden: true
     - title: Elgato Stream Deck
       image: https://dustinweb.azureedge.net/image/314717/960/720/elgato-stream-deck.jpg
-      price: "1099"
+      price: "1,099"
       link:
         elgiganten: https://www.dustinhome.dk/product/5011060273/stream-deck
+    - title: Corsair K70 MK.2 (Black w/ browns)
+      image: https://www.elgiganten.dk/image/dv_web_D18000100292025/CORK70MK2MXRE/corsair-k70-mk2-rgb-mekanisk-gaming-tastatur.jpg?$fullsize$
+      price: "1,349"
     - title: Apple TV 4K (32GB)
       hidden: true
       image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_sharpen=0&amp;amp;resMode=bicub&amp;amp;op_usm=0.5,0.5,0,0&amp;amp;iccEmbed=0&amp;amp;layer=comp&amp;amp;.v=1504814112595
       price: "1,499"
       link:
         apple: https://www.apple.com/dk/shop/buy-tv/apple-tv-4k/32-gb
+    - title: Clothes by Rains
 gt2500:
     - title: Nintendo Switch (red-blue version)
       bought: true
@@ -205,12 +179,10 @@ gt2500:
         dustinhome: https://www.dustinhome.dk/product/5011007342/switch-with-neon-joy-con
         elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/SWI32GBNEON/nintendo-switch-konsol-neonbla-og-neonrod-joy-con
         amazon: https://amzn.to/2zXQrZy
-    - title: Synology DiskStation DS918+
-      hidden: true
-      image: https://images-na.ssl-images-amazon.com/images/I/81pRAZPTI7L._SL1500_.jpg
-      price: "3,999"
+    - title: Ørgreen sunglasses
+      price: "A lot"
       link:
-        pricerunner: https://www.pricerunner.dk/pl/744-4293290/NAS-Server/Synology-DiskStation-DS918-Sammenlign-Priser
+        oergreen: https://www.orgreenoptics.com/playground/quantum-sun/
     - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
       price: "3,999"
       hidden: true
