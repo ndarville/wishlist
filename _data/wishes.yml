@@ -100,8 +100,6 @@ gt250:
       price: "399"
       link:
           elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN400DKK/playstation-network-live-card-400-kr
-    - title: Precise iPad stylus that doesn't scratch the screen
-      hidden: true
 # >500
 gt500:
     - title: The Grammar of Graphics
