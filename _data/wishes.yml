@@ -144,7 +144,7 @@ gt500:
         apple: https://www.apple.com/dk/shop/product/MK0C2/apple-pencil?fnode=37
     - title: Subwoofer
       hidden: true
-    - title: "Seagate Firecuda SSHD (2TB)"
+    - title: Seagate Firecuda SSHD (2TB)
       hidden: true
       image: https://media.dustin.eu/image/236417/960/720/seagate-firecuda-sshd-2tb-sata-600-25.jpg
       price: "799"
