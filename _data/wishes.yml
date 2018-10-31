@@ -3,6 +3,7 @@ lt250:
     - title: Tennis socks
       bought: true
     - title: Bookmarks
+      hidden: true
     - title: Underpants
       bought: true
     - title: Stool
