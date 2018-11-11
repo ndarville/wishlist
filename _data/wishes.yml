@@ -108,15 +108,6 @@ gt500:
       price: "599"
       link:
         saxo: https://www.saxo.com/dk/owning-memory_jeannette-a-bastian_hardback_9780313320088
-    - title: Nintendo LABO---Robot Kit
-      hidden: true
-    - title: Nintendo Switch Pro Controller---Xenoblade Chronicles 2 Edition
-      hidden: true
-      price: "599"
-      image: https://images-na.ssl-images-amazon.com/images/I/71wl4NrvLGL._SL1500_.jpg
-      link:
-        dansk_butik: https://www.dustinhome.dk/product/5011055654/switch-pro-controller---xenoblade-chronicles-2-edition
-        amazon: https://amzn.to/2Dr2Nz1
     - title: The Art of Metal Gear Solid I-IV
       image: https://d2lzb5v10mb0lj.cloudfront.net/covers/300/30/3001445.jpg
       price: "599"
