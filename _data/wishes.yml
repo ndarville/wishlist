@@ -6,6 +6,7 @@ lt250:
     - title: Underpants
     - title: Coffee mugs with rubber bottom and coasters
     - title: PlayStation Network Gift Cards
+      hidden: true
       image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
       price: "199"
       link:
@@ -99,6 +100,7 @@ gt250:
       link:
          purchase: http://www.parliamentbook.com/book
     - title: PlayStation Network Gift Cards
+      hidden: true
       image: https://tubby.scene7.com/is/image/tubby/PSN400DKK?$fullsize$
       price: "399"
       link:
