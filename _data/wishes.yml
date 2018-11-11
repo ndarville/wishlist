@@ -49,6 +49,10 @@ lt250:
         butik: https://strandbergpublishing.dk/boger/argumenter-imod-kvinder/
 # >250
 gt250:
+    - title: Parliament Book
+      hidden: true
+      link:
+         purchase: http://www.parliamentbook.com/book
     - title: "Spider-Man: Into the Spider-Verse: The Art of the Movie"
       image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/7856/9781785659461.jpg
       price: "249"
@@ -77,22 +81,12 @@ gt250:
       price: "249"
       link:
         amazon: https://amzn.to/2B6pemP
-    - title: Samsung Slim DVD writer (red)
-      bought: true
-      image: https://images-na.ssl-images-amazon.com/images/I/51ZFoWl7RyL._SL1050_.jpg
-      price: "299"
-      link:
-        dansk_butik: https://www.computersalg.dk/i/1256260/samsung-se-208gb-disk-drev-dvd-rw-r
         amazon: https://amzn.to/2g5XciP
     - title: iPad Air 2 Smart Cover (RED)
       image: https://store.storeimages.cdn-apple.com/4667/as-images.apple.com/is/image/AppleInc/aos/published/images/M/R6/MR632/MR632?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1504640721601
       price: "349"
       link:
          apple: https://www.apple.com/dk/shop/product/MR632ZM/A/smart-cover-til-ipad-productred?fnode=9a&fs=f%3Dipad6gen%26fh%3D4583%252B43dd
-    - title: Parliament Book
-      hidden: true
-      link:
-         purchase: http://www.parliamentbook.com/book
     - title: PlayStation Network Gift Cards
       hidden: true
       image: https://tubby.scene7.com/is/image/tubby/PSN400DKK?$fullsize$
