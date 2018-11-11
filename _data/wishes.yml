@@ -49,6 +49,11 @@ lt250:
         dansk_butik: https://www.saxo.com/dk/codes-of-the-underworld_diego-gambetta_paperback_9780691152479
         book_depository: https://www.bookdepository.com/Codes-of-the-Underworld-Diego-Gambetta/9780691152479
         amazon: https://amzn.to/2zioXln
+    - title: Argumenter Imod Kvinder
+      image: https://strandbergpublishing.dk/wp-content/uploads/2018/02/Argumenter_3korr.jpg
+      price: "199"
+      link:
+        butik: https://strandbergpublishing.dk/boger/argumenter-imod-kvinder/
 # >250
 gt250:
     - title: "Spider-Man: Into the Spider-Verse: The Art of the Movie"
