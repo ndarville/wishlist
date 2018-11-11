@@ -162,6 +162,7 @@ gt1000:
       link:
         elgiganten: https://www.dustinhome.dk/product/5011060273/stream-deck
     - title: Corsair K70 MK.2 (Black w/ browns)
+      hidden: true
       image: https://www.elgiganten.dk/image/dv_web_D18000100292025/CORK70MK2MXRE/corsair-k70-mk2-rgb-mekanisk-gaming-tastatur.jpg?$fullsize$
       price: "1,349"
     - title: Apple TV 4K (32GB)
