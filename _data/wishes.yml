@@ -1,11 +1,15 @@
 # <250
 lt250:
-    - title: Tennis socks
-      bought: true
     - title: Bookmarks
       hidden: true
+    - title: Tennis socks
     - title: Underpants
-      bought: true
+    - title: Coffee mugs with rubber bottom and coasters
+    - title: PlayStation Network Gift Cards
+      image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
+      price: "199"
+      link:
+        elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card
     - title: Stool
       image: https://www.ikea.com/dk/da/images/products/frosta-taburet__20345_PE105506_S4.jpg
       price: "49"
@@ -17,12 +21,6 @@ lt250:
       price: "149"
       link:
         amazon: https://amzn.to/2DBshK2
-    - title: How to Be Right
-      image: https://www.penguin.co.uk/content/dam/prh/books/111/1116808/9780753553091.jpg.transform/PRHDesktopWide_small/image.jpg
-      price: "149"
-      link:
-        dansk_butik: https://www.saxo.com/dk/how-to-be-right_james-obrien_hardback_9780753553091
-        book_depository: https://www.bookdepository.com/How-Be-Right-James-OBrien/9780753553091
     - title: Headphone hanger
       bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
@@ -35,13 +33,13 @@ lt250:
       price: "199"
       link:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
-    - title: PlayStation Network Gift Cards
-      image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
-      price: "199"
-      link:
-        elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card
-    - title: Coffee mugs with tubber bottom and coasters
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
+    - title: How to Be Right
+      image: https://www.penguin.co.uk/content/dam/prh/books/111/1116808/9780753553091.jpg.transform/PRHDesktopWide_small/image.jpg
+      price: "149"
+      link:
+        dansk_butik: https://www.saxo.com/dk/how-to-be-right_james-obrien_hardback_9780753553091
+        book_depository: https://www.bookdepository.com/How-Be-Right-James-OBrien/9780753553091
     - title: "Codes of the Underworld: How Criminals Communicate"
       image: https://images-na.ssl-images-amazon.com/images/I/51lfsi-ZzQL._SX333_BO1,204,203,200_.jpg
       price: "199"
