@@ -136,7 +136,7 @@ Known issues
 [mikefarah-yq]: http://mikefarah.github.io/yq/read/
 [kislyuk-yq]: https://github.com/kislyuk/yq
 [jq]: https://stedolan.github.io/jq/
-[custom-github-pages]: https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
+[custom-github-pages]: https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/ "Setting up custom GitHub pages"
 [commit history]: https://github.com/ndarville/wishlist/commits/master
 [workfolio]: https://github.com/ndarville/workfolio
 [flat ui]: https://designmodo.github.io/Flat-UI/
