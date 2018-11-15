@@ -117,6 +117,12 @@ gt500:
       link:
         dansk_butik: https://www.saxo.com/dk/the-art-of-metal-gear-solid-i-iv_konami_hardback_9781506705811
         book_depository: https://www.bookdepository.com/Art-Of-Metal-Gear-Solid-I-iv-Y-Shinkawa/9781506705811
+    - title: Wacom Intuos S(mall)
+      hidden: true
+      image: https://i.computersalg.dk/digitalcontent/0/1599/15996984.jpg
+      price: "599"
+      link:
+        dansk_butik: https://www.computersalg.dk/i/4154400/wacom-intuos-s-digitizer
     - title: Black Noctua NH-D15(S/Q) AM4 19Q1/2
       hidden: true
       price: "699"
