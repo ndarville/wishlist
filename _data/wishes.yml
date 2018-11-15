@@ -159,6 +159,9 @@ gt1000:
       link:
         apple: https://www.apple.com/dk/shop/buy-tv/apple-tv-4k/32-gb
     - title: Clothes by Rains
+      hidden: true
+      link:
+        rains: https://dk.rains.com
 gt2500:
     - title: Nintendo Switch (red-blue version)
       bought: true
