@@ -167,7 +167,7 @@ gt1000:
       hidden: true
       link:
         rains: https://dk.rains.com
-    - title: Højere TV-bord, højde 55-70cm(?); bredde mindst 115cm, max 140cm
+    - title: Højere TV-bord, højde@~55cm, bredde@115-140cm (mindst-max)
 gt2500:
     - title: Nintendo Switch (red-blue version)
       bought: true
