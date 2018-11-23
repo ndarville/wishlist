@@ -5,8 +5,7 @@ lt250:
     - title: Tennis socks
     - title: Underpants
     - title: Coffee mugs with rubber bottom and coasters
-    - title: PlayStation Network Gift Cards
-      hidden: true
+    - title: 200,- PlayStation Network Gift Cards
       image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
       price: "199"
       link:
@@ -90,8 +89,7 @@ gt250:
       price: "349"
       link:
          apple: https://www.apple.com/dk/shop/product/MR632ZM/A/smart-cover-til-ipad-productred?fnode=9a&fs=f%3Dipad6gen%26fh%3D4583%252B43dd
-    - title: PlayStation Network Gift Cards
-      hidden: true
+    - title: 400,- PlayStation Network Gift Cards
       image: https://tubby.scene7.com/is/image/tubby/PSN400DKK?$fullsize$
       price: "399"
       link:
