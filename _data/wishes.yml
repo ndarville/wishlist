@@ -159,6 +159,7 @@ gt1000:
       image: https://www.elgiganten.dk/image/dv_web_D18000100292025/CORK70MK2MXRE/corsair-k70-mk2-rgb-mekanisk-gaming-tastatur.jpg?$fullsize$
       price: "1,349"
     - title: Apple TV 4K (32GB)
+      hidden: true
       image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_sharpen=0&amp;amp;resMode=bicub&amp;amp;op_usm=0.5,0.5,0,0&amp;amp;iccEmbed=0&amp;amp;layer=comp&amp;amp;.v=1504814112595
       price: "1,499"
       link:
