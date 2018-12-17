@@ -4,8 +4,6 @@ lt250:
     - title: Bookmarks
       hidden: true
     - title: Tennis socks
-    - title: Underpants
-      hidden: true
     - title: Coffee mugs with rubber bottom and coasters
     - title: 200,- PlayStation Network Gift Cards
       image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
@@ -138,12 +136,6 @@ gt500:
         apple: https://www.apple.com/dk/shop/product/MK0C2/apple-pencil?fnode=37
     - title: Subwoofer
       hidden: true
-    - title: Seagate Firecuda SSHD (2TB)
-      hidden: true
-      image: https://media.dustin.eu/image/236417/960/720/seagate-firecuda-sshd-2tb-sata-600-25.jpg
-      price: "799"
-      link:
-        dustinhome: https://www.dustinhome.dk/product/5011001332/firecuda-sshd
     - title: Coloured trousers
 # >1000
 gt1000:
@@ -155,12 +147,8 @@ gt1000:
       price: "1,099"
       link:
         elgiganten: https://www.dustinhome.dk/product/5011060273/stream-deck
-    - title: Corsair K70 MK.2 (Black w/ browns)
-      hidden: true
-      image: https://www.elgiganten.dk/image/dv_web_D18000100292025/CORK70MK2MXRE/corsair-k70-mk2-rgb-mekanisk-gaming-tastatur.jpg?$fullsize$
-      price: "1,349"
     - title: Apple TV 4K (32GB)
-      hidden: true
+      bought: true
       image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_sharpen=0&amp;amp;resMode=bicub&amp;amp;op_usm=0.5,0.5,0,0&amp;amp;iccEmbed=0&amp;amp;layer=comp&amp;amp;.v=1504814112595
       price: "1,499"
       link:
