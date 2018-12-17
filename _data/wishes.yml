@@ -95,6 +95,11 @@ gt250:
       price: "399"
       link:
           elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN400DKK/playstation-network-live-card-400-kr
+    - title: Covert Regime Change
+      image: https://imgcdn.saxo.com/_9781501730658/0x500
+      price: "399"
+      link:
+          dansk_butik: https://www.saxo.com/dk/covert-regime-change_lindsey-a-orourke_hardback_9781501730658
 # >500
 gt500:
     - title: The Grammar of Graphics
