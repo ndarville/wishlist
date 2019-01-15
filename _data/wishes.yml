@@ -57,6 +57,7 @@ gt250:
       link:
          purchase: http://www.parliamentbook.com/book
     - title: "Spider-Man: Into the Spider-Verse: The Art of the Movie"
+      bought: true
       image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/7856/9781785659461.jpg
       price: "249"
       link:
