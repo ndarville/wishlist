@@ -174,6 +174,7 @@ gt2500:
         elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/SWI32GBNEON/nintendo-switch-konsol-neonbla-og-neonrod-joy-con
         amazon: https://amzn.to/2zXQrZy
     - title: Ørgreen sunglasses
+      hidden: true
       link:
         oergreen: https://www.orgreenoptics.com/playground/quantum-sun/
     - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
