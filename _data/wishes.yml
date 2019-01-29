@@ -164,6 +164,17 @@ gt1000:
       link:
         rains: https://dk.rains.com
     - title: Højere TV-bord, højde@~55cm, bredde@115-140cm (mindst-max)
+    - title: WD Black 6TB
+      hidden: true
+      image: https://dustinweb.azureedge.net/image/297755/400/320/wd-black-6tb-35-serial-ata-600.jpg
+      price: "2,199"
+      link:
+        dustinhome: https://www.dustinhome.dk/product/5011071481/black
+    - title: WD Blue 6TB
+      image: https://dustinweb.azureedge.net/image/297754/960/720/wd-blue-6tb-35-serial-ata-600.jpg
+      price: "1,629"
+      link:
+        dustinhome: https://www.dustinhome.dk/product/5010881554/blue
 gt2500:
     - title: Nintendo Switch (red-blue version)
       bought: true
