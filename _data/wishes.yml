@@ -176,6 +176,7 @@ gt1000:
       price: "1,629"
       link:
         dustinhome: https://www.dustinhome.dk/product/5010881554/blue
+    - title: New glass lenses
 gt2500:
     - title: Nintendo Switch (red-blue version)
       bought: true
@@ -185,11 +186,11 @@ gt2500:
         dustinhome: https://www.dustinhome.dk/product/5011007342/switch-with-neon-joy-con
         elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/SWI32GBNEON/nintendo-switch-konsol-neonbla-og-neonrod-joy-con
         amazon: https://amzn.to/2zXQrZy
+    - title: New headphones - wireless?
     - title: Ørgreen sunglasses
       hidden: true
       link:
         oergreen: https://www.orgreenoptics.com/playground/quantum-sun/
-    - title: New glasses
     - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
       price: "3,999"
       hidden: true
