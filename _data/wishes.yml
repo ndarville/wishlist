@@ -4,21 +4,14 @@ lt250:
     - title: Bookmarks
       hidden: true
     - title: Tennis socks
+      bought: true
     - title: Coffee mugs with rubber bottom and coasters
     - title: 200,- PlayStation Network Gift Cards
       image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
       price: "199"
       link:
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card
-
-    - title: Toppude til TV- og PC-stole
-    - title: Trash bin
     - title: Stand/table for computer (with wheels?)
-    - title: Short stool
-      image: https://www.ikea.com/dk/da/images/products/frosta-taburet__20345_PE105506_S4.jpg
-      price: "49"
-      link:
-        ikea: https://www.ikea.com/dk/da/catalog/products/24286205/
     - title: Headphone hanger
       bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
@@ -32,24 +25,6 @@ lt250:
       link:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
-    - title: How to Be Right
-      image: https://www.penguin.co.uk/content/dam/prh/books/111/1116808/9780753553091.jpg.transform/PRHDesktopWide_small/image.jpg
-      price: "149"
-      link:
-        dansk_butik: https://www.saxo.com/dk/how-to-be-right_james-obrien_hardback_9780753553091
-        book_depository: https://www.bookdepository.com/How-Be-Right-James-OBrien/9780753553091
-    - title: "Codes of the Underworld: How Criminals Communicate"
-      image: https://images-na.ssl-images-amazon.com/images/I/51lfsi-ZzQL._SX333_BO1,204,203,200_.jpg
-      price: "199"
-      link:
-        dansk_butik: https://www.saxo.com/dk/codes-of-the-underworld_diego-gambetta_paperback_9780691152479
-        book_depository: https://www.bookdepository.com/Codes-of-the-Underworld-Diego-Gambetta/9780691152479
-        amazon: https://amzn.to/2zioXln
-    - title: Argumenter Imod Kvinder
-      image: https://strandbergpublishing.dk/wp-content/uploads/2018/02/Argumenter_3korr.jpg
-      price: "199"
-      link:
-        butik: https://strandbergpublishing.dk/boger/argumenter-imod-kvinder/
 # >250
 gt250:
     - title: Parliament Book
@@ -134,18 +109,18 @@ gt500:
       price: "599"
       link:
         dansk_butik: https://www.computersalg.dk/i/4154400/wacom-intuos-s-digitizer
-    - title: Black Noctua NH-D15(S/Q) AM4 19Q1/2
+    - title: Black Noctua NH-D15S AM4 19Q1/2 # Summer
       hidden: true
       price: "699"
       link:
         noctua_press: https://noctua.at/en/noctua-at-computex-2018
       # https://twitter.com/Noctua_at/status/1032728898373648386
-    - title: Apple Pencil
+    - title: Apple Pencil 2
       hidden: true
-      price: "769"
+      price: "1,049"
       image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/M/K0/MK0C2/MK0C2_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=DublD1
       link:
-        apple: https://www.apple.com/dk/shop/product/MK0C2/apple-pencil?fnode=37
+        apple: https://www.apple.com/dk/shop/product/MU8F2ZM/A/apple-pencil-2-generation
     - title: Nyt armatur/skærme til lamper
     - title: Subwoofer
       hidden: true
@@ -170,18 +145,14 @@ gt1000:
       link:
         rains: https://dk.rains.com
     - title: Højere TV-bord, højde@~55cm, bredde@115-140cm (mindst-max)
-    - title: WD Black 6TB
-      hidden: true
-      image: https://dustinweb.azureedge.net/image/297755/400/320/wd-black-6tb-35-serial-ata-600.jpg
-      price: "2,199"
-      link:
-        dustinhome: https://www.dustinhome.dk/product/5011071481/black
     - title: WD Blue 6TB
+      bought: true
       image: https://dustinweb.azureedge.net/image/297754/960/720/wd-blue-6tb-35-serial-ata-600.jpg
       price: "1,629"
       link:
-        dustinhome: https://www.dustinhome.dk/product/5010881554/blue
+        dustinhome: https://www.dustinhome.dk/product/5011119851/blue-wd60ezaz
     - title: New glass lenses
+      bought: true
     - title: New keyboard
 gt2500:
     - title: Nintendo Switch (red-blue version)
