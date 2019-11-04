@@ -12,6 +12,7 @@ lt250:
       link:
         elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card
     - title: Stand/table for computer (with wheels?)
+      hidden: true
     - title: Headphone hanger
       bought: true
       image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
@@ -25,6 +26,7 @@ lt250:
       link:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
+      hidden: true
 # >250
 gt250:
     - title: Parliament Book
@@ -56,18 +58,18 @@ gt250:
       hidden: true
       price: "249"
     - title: Ocarina of Time Link Amiibo
+      hidden: true
       image: https://images-na.ssl-images-amazon.com/images/I/71dG-afhpZL._SL1080_.jpg
       price: "249"
       link:
         amazon: https://amzn.to/2B6pemP
         amazon: https://amzn.to/2g5XciP
     - title: John Wick 1 (4K)
+      hidden: true
       image: https://images-na.ssl-images-amazon.com/images/I/51%2BCkK0MUKL.jpg
       price: "249"
-      link:
-        laserdisken: http://laserdisken.dk/html/visvare.dna?vare=149606828720055006
-        zavvi: https://www.zavvi.com/blu-ray/john-wick-4k-ultra-hd/11485249.html
     - title: iPad Air 2 Smart Cover (RED)
+      bought: true
       image: https://store.storeimages.cdn-apple.com/4667/as-images.apple.com/is/image/AppleInc/aos/published/images/M/R6/MR632/MR632?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1504640721601
       price: "349"
       link:
@@ -98,6 +100,7 @@ gt500:
       link:
         saxo: https://www.saxo.com/dk/owning-memory_jeannette-a-bastian_hardback_9780313320088
     - title: The Art of Metal Gear Solid I-IV
+      hidden: true
       image: https://d2lzb5v10mb0lj.cloudfront.net/covers/300/30/3001445.jpg
       price: "599"
       link:
@@ -121,19 +124,20 @@ gt500:
       image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/M/K0/MK0C2/MK0C2_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=DublD1
       link:
         apple: https://www.apple.com/dk/shop/product/MU8F2ZM/A/apple-pencil-2-generation
-    - title: Nyt armatur/skærme til lamper
+    - title: Nyt armatur/skærme/pærer til lamper
+      hidden: true
     - title: Subwoofer
       hidden: true
 # >1000
 gt1000:
     - title: Canon CanoScan Lide 220
       hidden: true
-    - title: Elgato Stream Deck
-      hidden: true
-      image: https://dustinweb.azureedge.net/image/314717/960/720/elgato-stream-deck.jpg
-      price: "1,099"
+    - title: Elgato Stream Deck XL
+      bought: true
+      image: https://www.elgato.com/sites/default/files/2019-05/image-tech-spec-stream-deck-xl.png
+      price: "???"
       link:
-        elgiganten: https://www.dustinhome.dk/product/5011060273/stream-deck
+        elgato: https://www.elgato.com/en/gaming/stream-deck-xl
     - title: Apple TV 4K (32GB)
       bought: true
       image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_sharpen=0&amp;amp;resMode=bicub&amp;amp;op_usm=0.5,0.5,0,0&amp;amp;iccEmbed=0&amp;amp;layer=comp&amp;amp;.v=1504814112595
@@ -163,11 +167,11 @@ gt2500:
         dustinhome: https://www.dustinhome.dk/product/5011007342/switch-with-neon-joy-con
         elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/SWI32GBNEON/nintendo-switch-konsol-neonbla-og-neonrod-joy-con
         amazon: https://amzn.to/2zXQrZy
-    - title: New headphones - wireless?
     - title: Ørgreen sunglasses
       hidden: true
       link:
         oergreen: https://www.orgreenoptics.com/playground/quantum-sun/
+#   - title: Glasses
     - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
       price: "3,999"
       hidden: true
@@ -176,7 +180,13 @@ gt2500:
         flatpanels: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1530781197
     - title: New PC monitor
     - title: New GPU
+      hidden: true
     - title: New phone?
+      hidden: true
+    - title: Dolby Atmos sound system
+      hidden: true
+    - title: Synology NAS
+      hidden: true
 
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
 #
