@@ -89,6 +89,7 @@ gt250:
       price: "399"
       link:
           dansk_butik: https://www.saxo.com/dk/covert-regime-change_lindsey-a-orourke_hardback_9781501730658
+    - title: Hoodies
 # >500
 gt500:
     - title: The Grammar of Graphics
@@ -186,11 +187,9 @@ gt2500:
         flatpanels: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1530781197
     - title: New PC monitor
     - title: New GPU
-      hidden: true
     - title: New phone?
       hidden: true
-    - title: Dolby Atmos sound system
-      hidden: true
+    - title: New sound system with receiver
     - title: Synology NAS
       hidden: true
 
