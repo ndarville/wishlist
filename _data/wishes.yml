@@ -40,13 +40,6 @@ gt250:
       link:
           dansk_butik: https://www.saxo.com/dk/spider-man-into-the-spider-verse_ramin-zahed_hardback_9781785659461
           book_depository: https://www.bookdepository.com/Spider-Man-Into-the-Spider-Verse-Ramin-Zahed/9781785659461
-    - title: Inside Black Mirror
-      image: https://www.penguin.co.uk/content/dam/prh/books/111/1116698/9781529102581.jpg.transform/PRHDesktopWide_small/image.jpg
-      price: "249"
-      link:
-        dansk_butik: https://www.saxo.com/dk/inside-black-mirror_charlie-brooker_hardback_9781984823489
-        book_depository: https://www.bookdepository.com/Inside-Black-Mirror-Jason-Arnopp/9781529102581
-    - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
       hidden: true
       image: https://images-na.ssl-images-amazon.com/images/I/41TzErYBNWL._SX331_BO1,204,203,200_.jpg
       price: "249"
@@ -85,6 +78,7 @@ gt250:
       link:
           elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN400DKK/playstation-network-live-card-400-kr
     - title: Covert Regime Change
+      hidden: true
       image: https://imgcdn.saxo.com/_9781501730658/0x500
       price: "399"
       link:
