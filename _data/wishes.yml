@@ -158,6 +158,9 @@ gt1000:
     - title: New glass lenses
       bought: true
     - title: New keyboard
+      bought: true
+    - title: Wireless numpad
+      hidden: true
     - title: Ny lænestol
 gt2500:
     - title: Nintendo Switch (red-blue version)
