@@ -47,13 +47,6 @@ gt250:
       link:
           dansk_butik: https://www.saxo.com/dk/spider-man-into-the-spider-verse_ramin-zahed_hardback_9781785659461
           book_depository: https://www.bookdepository.com/Spider-Man-Into-the-Spider-Verse-Ramin-Zahed/9781785659461
-      hidden: true
-      image: https://images-na.ssl-images-amazon.com/images/I/41TzErYBNWL._SX331_BO1,204,203,200_.jpg
-      price: "249"
-      link:
-        dansk_butik: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
-        amazon: https://amzn.to/2jgvvXQ
-        book_depository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
     - title: Boxing gloves
       hidden: true
       price: "249"
