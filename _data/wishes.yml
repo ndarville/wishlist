@@ -6,6 +6,12 @@ lt250:
     - title: Tennis socks
       bought: true
     - title: Coasters
+    - title: Xbox One Play & Charge Kit
+      price: "149"
+      link:
+        dustinhome: https://www.dustinhome.dk/product/5011103112/xbox-one-play-and-charge-kit
+        elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/xbox-one-tilbehor/XONEPLAYCHKIT/xbox-one-play-charge-kit
+        pricerunner: https://www.pricerunner.dk/pl/196-3137543/Spil-tilbehoer/Microsoft-Xbox-One-Play-Charge-Kit-Sammenlign-Priser
     - title: 200,- PlayStation Network Gift Cards
       image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
       price: "199"
@@ -84,6 +90,11 @@ gt250:
       link:
           dansk_butik: https://www.saxo.com/dk/covert-regime-change_lindsey-a-orourke_hardback_9781501730658
     - title: Hoodies
+    - title: YubiKey 5 NFC
+      image: https://dustinweb.azureedge.net/image/470614/400/320/yubico-yubikey-5-nfc.png
+      price: "399"
+      link:
+          dustinhome: https://www.dustinhome.dk/product/5011108346/yubikey-5-nfc
 # >500
 gt500:
     - title: The Grammar of Graphics
@@ -157,11 +168,17 @@ gt1000:
         dustinhome: https://www.dustinhome.dk/product/5011119851/blue-wd60ezaz
     - title: New glass lenses
       bought: true
+    - title: Cordless electric drill (Dewalt DCD795D2)
+      price: "1,599"
+      link:
+          pricerunner: https://www.pricerunner.dk/pl/1258-2929762/Boremaskiner-og-Skruemaskiner/Dewalt-DCD795D2-%282x2.0Ah%29-Sammenlign-Priser
     - title: New keyboard
       bought: true
     - title: Wireless numpad
       hidden: true
     - title: Ny lænestol
+    - title: Weighted blankets (vægtede dyner/tæpper)
+      bought: true
 gt2500:
     - title: Nintendo Switch (red-blue version)
       bought: true
