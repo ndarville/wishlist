@@ -50,6 +50,12 @@ gt250:
     - title: Boxing gloves
       hidden: true
       price: "249"
+    - title: "League of Legends: Realms of Runeterra"
+      image: https://www.imusic.dk/gfx/item/image/329/9780316497329/2019-league-of-legends-realms-of-runeterra-official-companion-paperback-book.jpg
+      price: "249"
+      link:
+        imusic: https://www.imusic.dk/books/9780316497329/2019-league-of-legends-realms-of-runeterra-official-companion-paperback-book
+        saxo: https://www.saxo.com/dk/league-of-legends-realms-of-runeterra-official-companion_riot-games_hardback_9780316497329
     - title: Ocarina of Time Link Amiibo
       hidden: true
       image: https://images-na.ssl-images-amazon.com/images/I/71dG-afhpZL._SL1080_.jpg
