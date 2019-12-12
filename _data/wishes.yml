@@ -117,8 +117,8 @@ gt500:
       price: "599"
       link:
         dansk_butik: https://www.computersalg.dk/i/4154400/wacom-intuos-s-digitizer
-    - title: Black Noctua NH-D15S AM4 19Q1/2 # Summer
-      hidden: true
+    - title: Black Noctua NH-D15S AM4
+      bought: true
       price: "699"
       link:
         noctua_press: https://noctua.at/en/noctua-at-computex-2018
