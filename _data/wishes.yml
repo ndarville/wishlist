@@ -34,6 +34,12 @@ lt250:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
       hidden: true
+    - title: DualShock 4 Back Button Attachment
+      image: https://live.staticflickr.com/65535/49229383298_8e95138612_k.jpg
+      price: "199"
+      link:
+        playstation: https://blog.us.playstation.com/2019/12/17/introducing-the-dualshock-4-back-button-attachment/
+    - title: Chopsticks
 # >250
 gt250:
     - title: Parliament Book
@@ -51,6 +57,7 @@ gt250:
       hidden: true
       price: "249"
     - title: "League of Legends: Realms of Runeterra"
+      bought: true
       image: https://www.imusic.dk/gfx/item/image/329/9780316497329/2019-league-of-legends-realms-of-runeterra-official-companion-paperback-book.jpg
       price: "249"
       link:
