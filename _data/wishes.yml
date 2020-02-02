@@ -34,11 +34,6 @@ lt250:
         american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
     - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
       hidden: true
-    - title: DualShock 4 Back Button Attachment
-      image: https://live.staticflickr.com/65535/49229383298_8e95138612_k.jpg
-      price: "199"
-      link:
-        playstation: https://blog.us.playstation.com/2019/12/17/introducing-the-dualshock-4-back-button-attachment/
     - title: Chopsticks
 # >250
 gt250:
@@ -74,6 +69,11 @@ gt250:
       hidden: true
       image: https://images-na.ssl-images-amazon.com/images/I/51%2BCkK0MUKL.jpg
       price: "249"
+    - title: PlayStation DualShock 4 bagknaptilføjelse
+      image: https://www.elgiganten.dk/image/dv_web_D180001002360699/129470/playstation-dualshock-4-bagknaptilfoejelse.jpg?$fullsize$
+      price: "299"
+      link:
+          elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/playstation-4-ps4-tilbehor/129470/playstation-dualshock-4-bagknaptilfojelse
     - title: Yoshi's Crafted World
       image: https://images-na.ssl-images-amazon.com/images/I/81NWAygLTGL._AC_SL1500_.jpg
       price: "449"
@@ -214,6 +214,7 @@ gt2500:
     - title: New sound system with receiver
     - title: Synology NAS
       hidden: true
+    - title: Allergy vaccination pills
 
 # [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
 #
